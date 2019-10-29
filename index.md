@@ -67,5 +67,3 @@ Korjattavaa?
 Tämä teksti generoidaan [GitHubista](https://github.com/Tarlab/website). Korjaus- ja parannusehdotuksia otetaan vastaan.
 
 
-![Netplaza](http://www.netplaza.fi/logot/netplaza_230_71.gif)
-
