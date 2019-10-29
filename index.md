@@ -9,7 +9,7 @@ Koska ovikellomme varastettiin, sisäänpääsyyn on käytössä [koputusprotoko
 
 Tila koostuu yhdestä huoneesta, jossa on sohvia, työpöytiä, 3D-tulostin (Prusa i3), kolveja, oskilloskooppeja, perustyökaluja ja toki langaton verkko. Tarjolla on myös virvokkeita pientä maksua vastaan.
 
-![Modattu bussinäyttö labilla](http://tarlab.fi/images/tarlabftw.png)
+![Modattu bussinäyttö labilla](/images/tarlabftw.png)
 
 Tarlab on ns. [hackerspace](http://hackerspaces.org) (tai suomeen paremmin taipuva [hacklab](http://hacklab.fi)), joita löytyy ympäri maailmaa ja jotka jakavat saman toiminta-ajatuksen. Tilaa pyörittävä Tarlab Oulu on voittoa tavoittelematon ja sitoutumaton rekisteröity yhdistys.
 
