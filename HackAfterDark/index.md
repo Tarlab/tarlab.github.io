@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: hackafterdark
 ---
 Hack After Dark on Oulussa järjestettävä tietoturva-aiheinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista ja yhdessäoloa.
 
