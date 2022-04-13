@@ -37,6 +37,7 @@ Lisätietoa
 
 Lisätietoa toiminnasta löytyy:
 
+ - [Matrixista](https://matrix.to/#/#tarlab:hacklab.fi)
  - [Telegramista](https://t.me/tarlab)
  - [IRCnetistä](http://fi.wikipedia.org/wiki/IRC) kanavalta [#Tarlab](http://mibbit.com/?channel=%23tarlab&amp;server=ircnet.eversible.com)
  - [Wikistä](https://jkry.org/ouluhack/)
