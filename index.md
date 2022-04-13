@@ -18,8 +18,9 @@ Tarlab on ns. [hackerspace](http://hackerspaces.org) (tai suomeen paremmin taipu
 Jäseneksi
 =========
 
-Yhdistys ei ole mitään ilman jäseniä. Yhdistyksen varsinaiseksi jäseneksi voi liittyä kuka vain. <br>
-[Jäsenhakemus](http://tarlab.fi/join/)
+Tarlabin toiminnan taustalla on jäsenet. Yhdistyksen toiminta ei olisi mahdollista ilman toimintaan osallistuvia jäseniä ja toisaalta jäsenmaksuista saatavaa tuloa. 
+Yhdistyksellä ei jäsenmaksujen lisäksi ole muita säännöllisiä tuloja, jäsenmaksuilla katetaan sekä tilojen vuokra että muut toiminnasta aiheutuvat menot. Yhdistyksen varsinaiseksi jäseneksi voi liittyä kuka vain.
+[Jäsenhakemus](https://www.flomembers.com/tarlab-oulu/members/application?_lang=fi)
 
  <br>
 
