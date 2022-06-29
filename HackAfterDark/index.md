@@ -62,12 +62,7 @@ Ole paras versio itsestäsi
 Kunnioita toisten yksityisyyttä  
 Käyttäydy kunnolla  
 
-## Esitykset
-TLP-protocol:
-- RED - *In the context of a meeting, information is limited to those present at the meeting.*
-- AMBER - *The recipient may share information with others within their organization. The originator may be expected to specify the intended limits of that sharing.*
-- GREEN - *Information can be circulated widely within a particular community. The information may not be published or posted publicly on the Internet.*
-- WHITE  - *Subject to standard copyright rules, information may be distributed freely, without restriction.*
+**Esitykset**: [TLP](https://en.wikipedia.org/wiki/Traffic_Light_Protocol)
 
-## Illanvietto
+**Illanvietto**:
 *Chatham house rule: "When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed."*
