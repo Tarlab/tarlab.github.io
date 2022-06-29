@@ -3,20 +3,20 @@ layout: hackafterdark
 ---
 Hack After Dark on Oulussa järjestettävä tietoturva-aiheinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista ja yhdessäoloa.
 
-Tapahtuma järjestetään vuonna 2021 jo toisen kerran. Vuonna 2019 paikalla oli seitsemän puhujaa ja noin 70 osallistujaa. Illan päätteeksi verkostoiduttiin, saunottiin ja pidettiin mahtava hakkerivisa.
+Tapahtuma järjestetään taas vuonna 2022. Aiempina vuosina tapahtumaan on osallistunut noin 70 osallistuja. Illan päätteeksi on verkostoiduttu, saunottu ja pidetty mahtava hakkerivisa.
 
 ## Sponsoriksi?
 **Tulevalle tapahtumalle haussa tukijoita.**
 
 ## AIKA
-**23.10.2021** - noin klo 12:00 - 00:00
+**xx.xx.2021** - noin klo 11:00 - 00:00
 
 ## OHOJELMA
 
 **Puhujaksi?**  
-Onko sinulla jotain tietoturva-aiheista kerrottavaa, jonka haluat jakaa yleisölle. Olitpa sitten alan veteraani tai ensimmäistä kertaa puhumaan uskaltautuva, Hack After Dark haluaa kuulla siitä. Lähetä ehdotus esityksestäsi osoitteeseen hallitus-AT-tarlab.fi 17. syyskuuta mennessä.
+Onko sinulla jotain [hakkeri](https://fi.wikipedia.org/wiki/Hakkeri#Hakkeri-sana)henkistä kerrottavaa, jonka haluat jakaa yleisölle? Olitpa sitten alan veteraani tai ensimmäistä kertaa puhumaan uskaltautuva, Hack After Dark haluaa kuulla siitä. Lähetä ehdotus esityksestäsi osoitteeseen hallitus-AT-tarlab.fi xx. xxxxkuuta mennessä.
 
-Hack After Dark -esitykselle aikaa on puolisen tuntia, puhua saat suomeksi tai englanniksi, kumpi vain tuntuu luontevammalta. Esitystä ei tallenneta, eikä streamata verkkoon.
+Hack After Dark -esitykselle aikaa kysymyksineen ja keskusteluineeon n. 45min, puhua saat suomeksi tai englanniksi, kumpi vain tuntuu luontevammalta. Esitystä ei tallenneta, eikä streamata verkkoon. Kannustamme pitämään esityksen mahdollisuuksien mukaan suomeksi, jotta esiintymisen ja osallistumisen kynnys pysyisi mahdollisimman matalalla.
 
 (｡◕‿‿◕｡)
 
@@ -55,8 +55,6 @@ Kerrotaan ku tiietään.
 Oulussa
 
 
-View Larger Map
-
 ## CODE-OF-CONDUCT
 Ooppa Tolokusti.  
 Kunnioita muita  
@@ -64,4 +62,12 @@ Ole paras versio itsestäsi
 Kunnioita toisten yksityisyyttä  
 Käyttäydy kunnolla  
 
+**Esitykset**
+TLP-protocol:
+- RED - *In the context of a meeting, for example, RED information is limited to those present at the meeting.*
+- AMBER - *The recipient may share AMBER information with others within their organization, but only on a ‘need-to-know’ basis. The originator may be expected to specify the intended limits of that sharing.*
+- GREEN - *Information in this category can be circulated widely within a particular community. However, the information may not be published or posted publicly on the Internet, nor released outside of the community.*
+- WHITE  - *Subject to standard copyright rules, WHITE information may be distributed freely, without restriction.*
+
+**Illanvietto**
 *Chatham house rule: "When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed."*
