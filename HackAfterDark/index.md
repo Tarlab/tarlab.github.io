@@ -7,16 +7,15 @@ Tapahtuma järjestetään taas vuonna 2022. Aiempina vuosina tapahtumaan on osal
 
 # Sponsoriksi?
 **Tulevalle tapahtumalle haussa tukijoita.**
+Ota yhteyttä had-ät-tarlab.fi
 
 # AIKA
-**xx.xx.2021** - noin klo 11:00 - 00:00
+**15.10.2022** - noin klo 11:00 - 00:00
 
 # OHOJELMA
 
 **Puhujaksi?**  
-Onko sinulla jotain [hakkeri](https://fi.wikipedia.org/wiki/Hakkeri#Hakkeri-sana)henkistä kerrottavaa, jonka haluat jakaa yleisölle? Olitpa sitten alan veteraani tai ensimmäistä kertaa puhumaan uskaltautuva, Hack After Dark haluaa kuulla siitä. Lähetä ehdotus esityksestäsi osoitteeseen hallitus-AT-tarlab.fi xx. xxxxkuuta mennessä.
-
-Hack After Dark -esitykselle aikaa kysymyksineen ja keskusteluineeon n. 45min, puhua saat suomeksi tai englanniksi, kumpi vain tuntuu luontevammalta. Esitystä ei tallenneta, eikä streamata verkkoon. Kannustamme pitämään esityksen mahdollisuuksien mukaan suomeksi, jotta esiintymisen ja osallistumisen kynnys pysyisi mahdollisimman matalalla.
+[Osallistumiskutsu](https://tarlab.fi/HackAfterDark/cfp.html) (Call for Participation)
 
 (｡◕‿‿◕｡)
 
