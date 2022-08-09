@@ -32,11 +32,11 @@ Toiminta perustuu kansainvälisesti tunnetuun Hackerspace -liikkeeseen ja toimin
 
 Hacklabeja toimii ympäri Suomen ja ne kaikki löytyy [Hacklab.fi yhteistyöverkoston sivustolta](https://hacklab.fi/).
 
-Tapahtuman järjestäjän saa kiinni osoitteesta hallitus-AT-tarlab.fi
+Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 
 # TAPAHTUMAN TUKENA
 Haluatko näkyvyyttä ainutlaatuiseen kohderyhmään ja tukea toimintaa?
-Ota yhteyttä hallitus-AT-tarlab.fi
+Ota yhteyttä had-AT-tarlab.fi
 
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
@@ -50,8 +50,7 @@ Illalla saunamahdollisuus, omat pyyhkeet mukaan.
 
 # PAIKKA
 *Löyäkkö Nää Perille?*  
-Kerrotaan ku tiietään.
-Oulussa
+[Johteenhovi](https://www.openstreetmap.org/way/87299527#map=17/65.01450/25.43194), Oulu
 
 
 # CODE-OF-CONDUCT
@@ -61,7 +60,7 @@ Ole paras versio itsestäsi
 Kunnioita toisten yksityisyyttä  
 Käyttäydy kunnolla  
 
-**Esitykset**: [TLP](https://en.wikipedia.org/wiki/Traffic_Light_Protocol)
+**Esitykset**: [Traffic Light Protocol - TLP](https://en.wikipedia.org/wiki/Traffic_Light_Protocol)
 
 **Illanvietto**:
 *Chatham house rule: "When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed."*
