@@ -2,7 +2,7 @@
 layout: hackafterdark
 ---
 # Hack After Dark 2022
-15.10.2022 @ Johteenhovi, Oulu
+[15.10.2022 @ Johteenhovi, Oulu](https://tarlab.fi/HackAfterDark/)
 # CALL-FOR-PARTICIPATION
 ## Haluakko Nää Puhua
 Deadline: 2.9.2022
