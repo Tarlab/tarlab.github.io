@@ -1,7 +1,7 @@
 ---
 layout: hackafterdark
 ---
-Hack After Dark on Oulussa järjestettävä tietoturva-aiheinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista ja yhdessäoloa.
+Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista ja yhdessäoloa.
 
 Tapahtuma järjestetään taas vuonna 2022. Aiempina vuosina tapahtumaan on osallistunut noin 70 osallistuja. Illan päätteeksi on verkostoiduttu, saunottu ja pidetty mahtava hakkerivisa.
 
