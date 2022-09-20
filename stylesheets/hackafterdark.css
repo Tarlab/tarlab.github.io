@@ -26,8 +26,9 @@ blockquote, q {quotes: none;}
 blockquote:before, blockquote:after, q:before, q:after {content: ''; content: none;}
 strong {font-weight: bold;} 
 input {outline: none;}
-table { border-collapse: collapse; border-spacing: 0; }
-img { border: 0; max-width: 100%; }
+table { border-collapse: collapse; border-spacing: 0; margin: 0 auto;}
+.sponsor-table th, .sponsor-table td { padding: 10px;}
+img { border: 0; max-width: 100%; justify-content: center; align-items:center;}
 a {text-decoration: none; color: #4278C6;}
 a:hover {text-decoration: underline;}
 

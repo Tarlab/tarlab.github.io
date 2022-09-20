@@ -5,24 +5,65 @@ Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma
 
 Tapahtuma järjestetään taas vuonna 2022. Aiempina vuosina tapahtumaan on osallistunut noin 70 osallistuja. Illan päätteeksi on verkostoiduttu, saunottu ja pidetty mahtava hakkerivisa.
 
-# Sponsoriksi?
-**Tulevalle tapahtumalle haussa tukijoita.**
-Ota yhteyttä had-ät-tarlab.fi
+
+[![Netox Oy](sponsor/Netox-vertical-slogan-black-resize.png)](https://netox.fi/)
+
+[![Oulun DataCenter](sponsor/ord-logo-pos-resize.png)](https://www.odc.fi/)  
+[![Fraktal](sponsor/Fraktal-resize.png)](https://www.fraktal.fi/)
+
+[![Huld Oy](sponsor/huld_logo_blue-resize.png)](https://huld.io/) [![Witted Megacorp](sponsor/Witted_logo_black-resize.png)](https://witted.com/)   
+[![SensorFleet](sponsor/sensorfleet-black-text-resize.png)](https://sensorfleet.com/) [![Prove Oy](sponsor/prove2-resize.png)](https://www.prove.fi/)
 
 # AIKA
-**15.10.2022** - noin klo 11:00 - 00:00
+**15.10.2022** - noin klo 10:30 - 00:00
 
 # OHOJELMA
 
-**Puhujaksi?**  
-[Osallistumiskutsu](https://tarlab.fi/HackAfterDark/cfp.html) (Call for Participation)
+*10:30*  
+**Ovet avataan**
+
+*10:45*  
+**Tapahtuman avaus**  
+Miikka Saukko - Tarlab Oulu ry
+
+*11:00 - 14:00*  
+**How to become famous on the internet for fun and profit**  
+Hannu Heikkinen
+
+**häXX-kromosomien mysteeri: naiset ja IT**  
+Aino Kivilahti
+
+**The MitM is dead, long live the MitM!**  
+Joona Hoikkala
+
+*14:00 - 14:30*  
+**Lounas**  
+Lounaan tarjoaa Tarlab. Vaihtoehtoina: kasvis ja gluteeniton kasvis.
+
+*14:30 - 18:30*  
+**Sähköpostin suojaaminen DANE:lla ja MTA-STS:llä sekä niiden käyttöaste .fi verkkotunnuksissa**  
+Jukka Nopanen
+
+**curlin hakkerointi**  
+Harry Sintonen
+
+**Smart Contractien generatiivinen testaus**  
+Juho Juopperi
+
+**Detecting and fixing CVE security issues in yocto based embedded Linux distribution**  
+Mikko Rapeli
+
+*19:00*  
+**Salamapuheet**
 
 (｡◕‿‿◕｡)
 
-**HackerQuiz**  
-Hacker oriented quiz for fame and glory!
+**Hakkerivisa**  
+Hakkerihenkinen visa maineesta ja kunniasta!
 
-**Sauna**
+**Sauna**  
+Virvokkeita tarjoaa [Remod Oy](https://remod.fi/).  
+Omat pyyhkeet jne. mukaan.
 
 # JÄRJESTÄJÄ
 *Tunnekko Nää Meitä?*  
@@ -35,8 +76,17 @@ Hacklabeja toimii ympäri Suomen ja ne kaikki löytyy [Hacklab.fi yhteistyöverk
 Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 
 # TAPAHTUMAN TUKENA
-Haluatko näkyvyyttä ainutlaatuiseen kohderyhmään ja tukea toimintaa?
-Ota yhteyttä had-AT-tarlab.fi
+**Päätukija**  
+[Netox Oy](https://netox.fi/)
+
+**Tukijat**  
+[Oulun DataCenter Oy](https://www.odc.fi/)  
+[Fraktal Oy](https://www.fraktal.fi/)  
+[Huld Oy](https://huld.io/)  
+[Witted Megacorp Oyj](https://witted.com/)  
+[Prove Oy](https://www.prove.fi/)  
+[SensorFleet Oy](https://sensorfleet.com/)
+
 
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
