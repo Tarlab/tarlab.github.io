@@ -90,7 +90,8 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
-Tapahtumaan ilmoittautuminen avataan lähempänä tapahtumaa.
+Tapahtumaan ilmoittautuminen on auki jäsenille, lisätietoa sähköpostissa.  
+Yleinen ilmoittautuminen aukeaa piakkoin.
 
 # MATRIX
 *Haluakkonää jutella?*  
