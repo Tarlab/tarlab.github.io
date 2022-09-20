@@ -92,6 +92,10 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 *Tuukko Nää Mukkaan?*  
 Tapahtumaan ilmoittautuminen avataan lähempänä tapahtumaa.
 
+# MATRIX
+*Haluakkonää jutella?*
+Tapahtuman etkoja, jatkoja ja muita keskusteluita voi käydä [Matrixissa](https://matrix.to/#/#had2022:hacklab.fi)
+
 # IKÄRAJA
 *Holovaakko Nää Ööliä?*  
 Tapahtuma on K-18.
