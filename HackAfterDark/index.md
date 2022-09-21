@@ -8,11 +8,12 @@ Tapahtuma järjestetään taas vuonna 2022. Aiempina vuosina tapahtumaan on osal
 
 [![Netox Oy](sponsor/Netox-vertical-slogan-black-resize.png)](https://netox.fi/)
 
-[![Oulun DataCenter](sponsor/ord-logo-pos-resize.png)](https://www.odc.fi/)  
-[![Fraktal](sponsor/Fraktal-resize.png)](https://www.fraktal.fi/)
+[![Oulun DataCenter Oy](sponsor/ord-logo-pos-resize.png)](https://www.odc.fi/)  
+[![Fraktal Oy](sponsor/Fraktal-resize.png)](https://www.fraktal.fi/)  
+[![SensorFu Oy](sponsor/sensorfu-resize.png)](https://sensorfu.com/)
 
-[![Huld Oy](sponsor/huld_logo_blue-resize.png)](https://huld.io/) [![Witted Megacorp](sponsor/Witted_logo_black-resize.png)](https://witted.com/)   
-[![SensorFleet](sponsor/sensorfleet-black-text-resize.png)](https://sensorfleet.com/) [![Prove Oy](sponsor/prove2-resize.png)](https://www.prove.fi/)
+[![Huld Oy](sponsor/huld_logo_blue-resize.png)](https://huld.io/) [![Witted Megacorp Oyj](sponsor/Witted_logo_black-resize.png)](https://witted.com/)   
+[![SensorFleet Oy](sponsor/sensorfleet-black-text-resize.png)](https://sensorfleet.com/) [![Prove Oy](sponsor/prove2-resize.png)](https://www.prove.fi/)
 
 # AIKA
 **15.10.2022** - noin klo 10:30 - 00:00
@@ -82,6 +83,7 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 **Tukijat**  
 [Oulun DataCenter Oy](https://www.odc.fi/)  
 [Fraktal Oy](https://www.fraktal.fi/)  
+[SensorFu Oy](https://sensorfu.com/)  
 [Huld Oy](https://huld.io/)  
 [Witted Megacorp Oyj](https://witted.com/)  
 [Prove Oy](https://www.prove.fi/)  
