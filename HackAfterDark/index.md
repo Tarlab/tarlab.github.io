@@ -10,10 +10,12 @@ Tapahtuma järjestetään taas vuonna 2022. Aiempina vuosina tapahtumaan on osal
 
 [![Oulun DataCenter Oy](sponsor/ord-logo-pos-resize.png)](https://www.odc.fi/)  
 [![Fraktal Oy](sponsor/Fraktal-resize.png)](https://www.fraktal.fi/)  
+[![WithSecure](sponsor/withsecure-resize.png)](https://withsecure.com/)  
 [![SensorFu Oy](sponsor/sensorfu-resize.png)](https://sensorfu.com/)
 
 [![Huld Oy](sponsor/huld_logo_blue-resize.png)](https://huld.io/) [![Witted Megacorp Oyj](sponsor/Witted_logo_black-resize.png)](https://witted.com/)   
-[![SensorFleet Oy](sponsor/sensorfleet-black-text-resize.png)](https://sensorfleet.com/) [![Prove Oy](sponsor/prove2-resize.png)](https://www.prove.fi/)
+[![SensorFleet Oy](sponsor/sensorfleet-black-text-resize.png)](https://sensorfleet.com/) [![Prove Oy](sponsor/prove2-resize.png)](https://www.prove.fi/)  
+[![TEK](sponsor/TEK-resize.png)](https://tek.fi/)
 
 # AIKA
 **15.10.2022** - noin klo 10:30 - 00:00
