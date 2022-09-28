@@ -103,6 +103,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea
 
 Tapahtuma maksaa ei-jäsenille 10€, sisältäen tarjottavan ruoan.  
 Osallistumismaksu laskutetaan sähköpostitse.  
+Paikkoja rajatusti, peruutuspaikan jonotus mahdollista.  
 [ILMOITTAUTUMINEN](https://edge.flomembers.com/tarlab-oulu/events/register/c81e728d9d4c2f636f067f89cc14862c)
 
 # MATRIX
