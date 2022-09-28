@@ -80,23 +80,30 @@ Hacklabeja toimii ympäri Suomen ja ne kaikki löytyy [Hacklab.fi yhteistyöverk
 Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 
 # TAPAHTUMAN TUKENA
+Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea
+
 **Päätukija**  
 [Netox Oy](https://netox.fi/)
 
 **Tukijat**  
 [Oulun DataCenter Oy](https://www.odc.fi/)  
 [Fraktal Oy](https://www.fraktal.fi/)  
+[WithSecure Oy](https://withsecure.com/)  
 [SensorFu Oy](https://sensorfu.com/)  
+[Loihde Trust Oy](https://www.loihdetrust.com/)  
 [Huld Oy](https://huld.io/)  
 [Witted Megacorp Oyj](https://witted.com/)  
 [Prove Oy](https://www.prove.fi/)  
-[SensorFleet Oy](https://sensorfleet.com/)
+[SensorFleet Oy](https://sensorfleet.com/)  
+[Tekniikan Akateemisten Liitto](https://tek.fi/)
 
 
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
-Tapahtumaan ilmoittautuminen on auki jäsenille, lisätietoa sähköpostissa.  
-Yleinen ilmoittautuminen aukeaa piakkoin.
+
+Tapahtuma maksaa ei-jäsenille 10€, sisältäen tarjottavan ruoan.  
+Osallistumismaksu laskutetaan sähköpostitse.  
+[ILMOITTAUTUMINEN](https://edge.flomembers.com/tarlab-oulu/events/register/c81e728d9d4c2f636f067f89cc14862c)
 
 # MATRIX
 *Haluakkonää jutella?*  
