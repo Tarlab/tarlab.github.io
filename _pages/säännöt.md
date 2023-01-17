@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Tarlab Oulu ry:n säännöt
-#subtitle: 
 ---
 1. Yhdistyksen nimi ja kotipaikka
 

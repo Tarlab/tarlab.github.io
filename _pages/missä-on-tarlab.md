@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 
-subtitle: 
+title: Missä on Tarlab?
 ---
 Tarlabin tilat sijaitsee Tuirassa osoitteessa [Valtatie 67](http://www.openstreetmap.org/?mlat=65.02556&amp;mlon=25.48520#map=18/65.02556/25.48520){:target=&quot;_blank&quot;}. Rakennuksen tuntee maatasossa olevasta baarista ja yläkerrassa olevista vuokranantajan [Offcoden](https://www.offcode.fi/) tiloista. Labitilat löytyvät rakennuksen kellarista.
 

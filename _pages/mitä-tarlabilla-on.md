@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Mitä Tarlabilla on?
-subtitle: 
 ---
 Tarlabin tilat ovat toistaiseksi pienet, yhden huoneen kompakti paketti Tuirassa.  
 Tällä hetkellä välineet painottuvat pitkälle tietotekniikan ja elektroniikan suuntaan, mutta muutakin 'siistiä sisätyötä' tiloissa voi harrastaa.

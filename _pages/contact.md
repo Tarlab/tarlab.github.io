@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Yhteystiedot
-#subtitle: 
 ---
 Address: Valtatie 67, 90500 Oulu  
 Phone might be coming some time..  

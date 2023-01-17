@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Location
-subtitle: 
 ---
 Tarlab space is located in Tuira, [Valtatie 67](http://www.openstreetmap.org/?mlat=65.02556&amp;mlon=25.48520#map=18/65.02556/25.48520){:target=&quot;_blank&quot;}. Building has a bar in ground level and our landlord [Offcode](https://www.offcode.fi/) in upper floor. Our space is in the basement.
 

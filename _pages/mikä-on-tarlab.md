@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Mikä on Tarlab?
-#subtitle: Mikä on Tarlab?
 ---
 Tarlab on oululainen kaikille avoin yhteisöllinen työpaja. Hacklab tarjoaa tilat ja välineitä erilaiseen käsillä puuhasteluun, rakenteluun, korjaamiseen ja askarteluun. Toiminnan keskiössä on yhdessä tekeminen ja toisilta oppiminen. 
 Yhdistys on jäsentensä näköinen, tiloissa voi toteuttaa omia projektejaan tai jotain yhdessä muiden kanssa. Jäsenten ja tarpeiden lisääntyessä yhdistys pyrkii laajentamaan toimintaansa kattamaan uusia osa-alueita.
