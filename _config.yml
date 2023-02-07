@@ -27,12 +27,14 @@ navbar-links:
     - Usein kysyttyä: "ukk"
   Liity jäseneksi: "https://www.flomembers.com/tarlab-oulu/members/application?_lang=fi"
   Yhdistyksestä:
+    - Meta: "meta"
     - Yhteystiedot: "yhteystiedot"
 #    - Historia: "historia"
     - Säännöt: "säännöt"
     - Rekisteriseloste: "rekisteriseloste"
   Info in English:
     - About: "about"
+    - Meta: "meta-en"
     - Location: "location"
     - Contact: "contact"
 
