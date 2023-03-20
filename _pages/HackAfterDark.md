@@ -9,17 +9,17 @@ Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma
 Tapahtuma järjestetään taas vuonna 2022. Aiempina vuosina tapahtumaan on osallistunut noin 70 osallistuja. Illan päätteeksi on verkostoiduttu, saunottu ja pidetty mahtava hakkerivisa.
 
 
-[![Netox Oy](/assets/sponsor/Netox-vertical-slogan-black-resize.png)](https://netox.fi/)
+[![Netox Oy](/assets/sponsor/Netox-vertical-slogan-black-resize.png)](https://netox.fi/){:.centered}
 
-[![Oulun DataCenter Oy](/assets/sponsor/ord-logo-pos-resize.png)](https://www.odc.fi/)  
-[![Fraktal Oy](/assets/sponsor/Fraktal-resize.png)](https://www.fraktal.fi/)  
-[![WithSecure](/assets/sponsor/withsecure-resize.png)](https://withsecure.com/)  
-[![SensorFu Oy](/assets/sponsor/sensorfu-resize.png)](https://sensorfu.com/)  
-[![Loihde Trust Oy](/assets/sponsor/loihde-resize.png)](https://www.loihdetrust.com/)
+[![Oulun DataCenter Oy](/assets/sponsor/ord-logo-pos-resize.png)](https://www.odc.fi/){:.centered}  
+[![Fraktal Oy](/assets/sponsor/Fraktal-resize.png)](https://www.fraktal.fi/){:.centered}  
+[![WithSecure](/assets/sponsor/withsecure-resize.png)](https://withsecure.com/){:.centered}  
+[![SensorFu Oy](/assets/sponsor/sensorfu-resize.png)](https://sensorfu.com/){:.centered}  
+[![Loihde Trust Oy](/assets/sponsor/loihde-resize.png)](https://www.loihdetrust.com/){:.centered}
 
-[![Huld Oy](/assets/sponsor/huld_logo_blue-resize.png)](https://huld.io/) [![Witted Megacorp Oyj](/assets/sponsor/Witted_logo_black-resize.png)](https://witted.com/)   
-[![SensorFleet Oy](/assets/sponsor/sensorfleet-black-text-resize.png)](https://sensorfleet.com/) [![Prove Oy](/assets/sponsor/prove2-resize.png)](https://www.prove.fi/)  
-[![TEK](/assets/sponsor/TEK-resize.png)](https://tek.fi/)
+[![Huld Oy](/assets/sponsor/huld_logo_blue-resize.png)](https://huld.io/){:.centered} [![Witted Megacorp Oyj](/assets/sponsor/Witted_logo_black-resize.png)](https://witted.com/){:.centered}   
+[![SensorFleet Oy](/assets/sponsor/sensorfleet-black-text-resize.png)](https://sensorfleet.com/){:.centered} [![Prove Oy](/assets/sponsor/prove2-resize.png)](https://www.prove.fi/){:.centered}  
+[![TEK](/assets/sponsor/TEK-resize.png)](https://tek.fi/){:.centered}
 
 # AIKA
 **15.10.2022** - noin klo 10:30 - 00:00
