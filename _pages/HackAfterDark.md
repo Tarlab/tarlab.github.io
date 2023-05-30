@@ -8,7 +8,6 @@ Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma
 
 Tapahtuma järjestetään neljättä kertaa vuonna 2023. Aiempina vuosina tapahtumaan on osallistunut noin 70 osallistuja. Illan päätteeksi on verkostoiduttu, saunottu ja pidetty mahtava hakkerivisa.
 
-<center>
 # AIKA
 **X.X.2023** - noin klo 10:30 - 00:00
 
@@ -58,8 +57,6 @@ Hakkerihenkinen visa maineesta ja kunniasta!
 
 **Sauna?**  
 Omat pyyhkeet ja virvokkeet jne. mukaan.
-
-</center>
 
 
 # JÄRJESTÄJÄ
