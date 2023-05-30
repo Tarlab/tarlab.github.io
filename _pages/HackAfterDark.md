@@ -6,23 +6,11 @@ title: Hack After Dark
 
 Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista ja yhdessäoloa.
 
-Tapahtuma järjestetään taas vuonna 2022. Aiempina vuosina tapahtumaan on osallistunut noin 70 osallistuja. Illan päätteeksi on verkostoiduttu, saunottu ja pidetty mahtava hakkerivisa.
+Tapahtuma järjestetään neljättä kertaa vuonna 2023. Aiempina vuosina tapahtumaan on osallistunut noin 70 osallistuja. Illan päätteeksi on verkostoiduttu, saunottu ja pidetty mahtava hakkerivisa.
 
-
-[![Netox Oy](/assets/sponsor/Netox-vertical-slogan-black-resize.png)](https://netox.fi/){:.centered}
-
-[![Oulun DataCenter Oy](/assets/sponsor/ord-logo-pos-resize.png)](https://www.odc.fi/){:.centered}  
-[![Fraktal Oy](/assets/sponsor/Fraktal-resize.png)](https://www.fraktal.fi/){:.centered}  
-[![WithSecure](/assets/sponsor/withsecure-resize.png)](https://withsecure.com/){:.centered}  
-[![SensorFu Oy](/assets/sponsor/sensorfu-resize.png)](https://sensorfu.com/){:.centered}  
-[![Loihde Trust Oy](/assets/sponsor/loihde-resize.png)](https://www.loihdetrust.com/){:.centered}
-
-[![Huld Oy](/assets/sponsor/huld_logo_blue-resize.png)](https://huld.io/){:.centered} [![Witted Megacorp Oyj](/assets/sponsor/Witted_logo_black-resize.png)](https://witted.com/){:.centered}   
-[![SensorFleet Oy](/assets/sponsor/sensorfleet-black-text-resize.png)](https://sensorfleet.com/){:.centered} [![Prove Oy](/assets/sponsor/prove2-resize.png)](https://www.prove.fi/){:.centered}  
-[![TEK](/assets/sponsor/TEK-resize.png)](https://tek.fi/){:.centered}
 
 # AIKA
-**15.10.2022** - noin klo 10:30 - 00:00
+**X.X.2023** - noin klo 10:30 - 00:00
 
 # OHOJELMA
 
@@ -31,34 +19,34 @@ Tapahtuma järjestetään taas vuonna 2022. Aiempina vuosina tapahtumaan on osal
 
 *10:45*  
 **Tapahtuman avaus**  
-Miikka Saukko - Tarlab Oulu ry
 
 *11:00 - 14:00*  
-**How to become famous on the internet for fun and profit**  
-Hannu Heikkinen
 
-**häXX-kromosomien mysteeri: naiset ja IT**  
-Aino Kivilahti
+**Puhe 1**  
+Puhuja 1
 
-**The MitM is dead, long live the MitM!**  
-Joona Hoikkala
+**Puhe 2**  
+Puhuja 2
+
+**Puhe 3**  
+Puhuja 3
 
 *14:00 - 14:30*  
-**Lounas**  
-Lounaan tarjoaa Tarlab. Vaihtoehtoina: kasvis ja gluteeniton kasvis.
+**Lounas?**  
 
 *14:30 - 18:30*  
-**Sähköpostin suojaaminen DANE:lla ja MTA-STS:llä sekä niiden käyttöaste .fi verkkotunnuksissa**  
-Jukka Nopanen
 
-**curlin hakkerointi**  
-Harry Sintonen
+**Puhe 4**  
+Puhuja 4
 
-**Smart Contractien generatiivinen testaus**  
-Juho Juopperi
+**Puhe 5**  
+Puhuja 5
 
-**Detecting and fixing CVE security issues in yocto based embedded Linux distribution**  
-Mikko Rapeli
+**Puhe 6**  
+Puhuja 6
+
+**Puhe 7**  
+Puhuja 7
 
 *19:00*  
 **Salamapuheet**
@@ -68,9 +56,8 @@ Mikko Rapeli
 **Hakkerivisa**  
 Hakkerihenkinen visa maineesta ja kunniasta!
 
-**Sauna**  
-Virvokkeita tarjoaa [Remod Oy](https://remod.fi/).  
-Omat pyyhkeet jne. mukaan.
+**Sauna?**  
+Omat pyyhkeet ja virvokkeet jne. mukaan.
 
 # JÄRJESTÄJÄ
 *Tunnekko Nää Meitä?*  
@@ -85,33 +72,16 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 # TAPAHTUMAN TUKENA
 Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea
 
-**Päätukija**  
-[Netox Oy](https://netox.fi/)
-
-**Tukijat**  
-[Oulun DataCenter Oy](https://www.odc.fi/)  
-[Fraktal Oy](https://www.fraktal.fi/)  
-[WithSecure Oy](https://withsecure.com/)  
-[SensorFu Oy](https://sensorfu.com/)  
-[Loihde Trust Oy](https://www.loihdetrust.com/)  
-[Huld Oy](https://huld.io/)  
-[Witted Megacorp Oyj](https://witted.com/)  
-[Prove Oy](https://www.prove.fi/)  
-[SensorFleet Oy](https://sensorfleet.com/)  
-[Tekniikan Akateemisten Liitto](https://tek.fi/)
-
-
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
 
-Tapahtuma maksaa ei-jäsenille 10€, sisältäen tarjottavan ruoan.  
+Tapahtuma maksaa ei-jäsenille 10€.  
 Osallistumismaksu laskutetaan sähköpostitse.  
 Paikkoja rajatusti, peruutuspaikan jonotus mahdollista.  
-[ILMOITTAUTUMINEN](https://edge.flomembers.com/tarlab-oulu/events/register/c81e728d9d4c2f636f067f89cc14862c)
 
 # MATRIX
 *Haluakkonää jutella?*  
-Tapahtuman etkoja, jatkoja ja muita keskusteluita voi käydä [Matrixissa](https://matrix.to/#/#had2022:hacklab.fi)
+Tapahtuman etkoja, jatkoja ja muita keskusteluita voi käydä [Matrixissa](https://matrix.to/#/#had2023:hacklab.fi)
 
 # IKÄRAJA
 *Holovaakko Nää Ööliä?*  
@@ -121,7 +91,6 @@ Illalla saunamahdollisuus, omat pyyhkeet mukaan.
 
 # PAIKKA
 *Löyäkkö Nää Perille?*  
-[Johteenhovi](https://www.openstreetmap.org/way/87299527#map=17/65.01450/25.43194), Oulu
 
 
 # CODE-OF-CONDUCT
