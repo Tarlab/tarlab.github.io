@@ -78,7 +78,7 @@ Tänä vuonna ikävä kyllä ei saunomismahdollisuutta.
 
 # PAIKKA
 *Löyäkkö Nää Perille?*  
-
+Tapahtumapaikkana [Johteenhovi](https://www.openstreetmap.org/search?query=johteenhovi%20oulu#map=19/65.01442/25.43256), Kansankentäntie 4, Oulu
 
 # CODE-OF-CONDUCT
 Ooppa Tolokusti.  
