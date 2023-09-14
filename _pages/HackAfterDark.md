@@ -12,22 +12,22 @@ Tapahtuma järjestetään vuonna 2023 jo neljättä kertaa. Aiempina vuosina tap
 Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea. Haluaisiko edustamasi organisaatio tuke tapahtumaa? Ota yhteyttä had(AT)tarlab.fi
 
 # ESITYKSET
-**ATK - Uhka vai mahdollisuus**
+**ATK - Uhka vai mahdollisuus**  
 Heikki Virkkunen
 
-**Fuck it, just DIY**
+**Fuck it, just DIY**  
 JooHoi
 
-**Communication readiness**
+**Communication readiness**  
 Ossi Herrala
 
-**CI/CD Security Risks**
+**CI/CD Security Risks**  
 Jussi Lehtonen
 
-**TBD**
+**TBD**  
 Joakim Tauren
 
-**TBD**
+**TBD**  
 TBD
 
 # AIKA
