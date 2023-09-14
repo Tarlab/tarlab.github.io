@@ -28,7 +28,7 @@ Jussi Lehtonen
 Joakim Tauren
 
 **TBD**  
-TBD
+Niklas Särökaari
 
 # AIKA
 **21.10.2023** - noin klo 10:30 - 00:00
