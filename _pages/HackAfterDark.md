@@ -8,12 +8,27 @@ Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma
 
 Tapahtuma järjestetään vuonna 2023 jo neljättä kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää
 
-# ESIINTYMÄÄN?
-Hack After Dark 2023 etsii kiinnostuneita esiintyjiä. Ehdota esitystä teknologian, rakentelun, taiteen tai muun luovan tekemisen aiheesta osoitteeseen had(AT)tarlab.fi
-Jos mielessä on jotain muuta ohjelmaa, niin keskustelemme aiheesta mieluusti.
-
 # TAPAHTUMAN TUKENA
 Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea. Haluaisiko edustamasi organisaatio tuke tapahtumaa? Ota yhteyttä had(AT)tarlab.fi
+
+# ESITYKSET
+**ATK - Uhka vai mahdollisuus**
+Heikki Virkkunen
+
+**Fuck it, just DIY**
+JooHoi
+
+**Communication readiness**
+Ossi Herrala
+
+**CI/CD Security Risks**
+Jussi Lehtonen
+
+**TBD**
+Joakim Tauren
+
+**TBD**
+TBD
 
 # AIKA
 **21.10.2023** - noin klo 10:30 - 00:00
