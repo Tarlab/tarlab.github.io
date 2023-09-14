@@ -77,7 +77,7 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
 
-Tapahtuma maksaa ei-jäsenille 10€.  
+Tapahtuma maksaa ei-jäsenille 15€.  
 Osallistumismaksu laskutetaan sähköpostitse.  
 Paikkoja rajatusti, peruutuspaikan jonotus mahdollista.  
 
