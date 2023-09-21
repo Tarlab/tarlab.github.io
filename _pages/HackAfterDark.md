@@ -18,6 +18,9 @@ Heikki Virkkunen
 **Fuck it, just DIY**  
 JooHoi
 
+**Detecting Adversary-in-the-Middle attacks**  
+Niklas Särökaari
+
 **Communication readiness**  
 Ossi Herrala
 
@@ -26,9 +29,6 @@ Jussi Lehtonen
 
 **TBD**  
 Joakim Tauren
-
-**TBD**  
-Niklas Särökaari
 
 # AIKA
 **21.10.2023** - noin klo 10:30 - 00:00
