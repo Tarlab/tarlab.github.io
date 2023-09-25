@@ -80,6 +80,7 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 Tapahtuma maksaa ei-jäsenille 15€.  
 Osallistumismaksu laskutetaan sähköpostitse.  
 Paikkoja rajatusti, peruutuspaikan jonotus mahdollista.  
+Ilmoittautuminen [FloMembers-palvelussa](https://www.flomembers.com/tarlab-oulu/events/register/eccbc87e4b5ce2fe28308fd9f2a7baf3).
 
 # MATRIX
 *Haluakkonää jutella?*  
