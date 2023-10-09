@@ -21,14 +21,15 @@ JooHoi
 **Detecting Adversary-in-the-Middle attacks**  
 Niklas Särökaari
 
+**Hacking hearts and minds**  
+Joakim Tauren
+
 **Communication readiness**  
 Ossi Herrala
 
 **CI/CD Security Risks**  
 Jussi Lehtonen
 
-**TBD**  
-Joakim Tauren
 
 # AIKA
 **21.10.2023** - noin klo 10:30 - 00:00
