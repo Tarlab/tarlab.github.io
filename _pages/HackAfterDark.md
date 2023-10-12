@@ -17,9 +17,10 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 **Tukijat**  
 ![SensorFu](/assets/img/HAD2023/SensorFu.png){:.centered}  
 
-![2NS](/assets/img/HAD2023/2NS.png){:.centered}
-![F-Secure](/assets/img/HAD2023/F-Secure.png){:.centered}
-
+<center>
+![2NS](/assets/img/HAD2023/2NS.png)
+![F-Secure](/assets/img/HAD2023/F-Secure.png)
+</center>
 
 # ESITYKSET
 **ATK - Uhka vai mahdollisuus**  
