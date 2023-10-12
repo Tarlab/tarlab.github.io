@@ -18,7 +18,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 ![SensorFu](/assets/img/HAD2023/SensorFu.png){:.centered}  
 
 <center>
-<img src="/assets/img/HAD2023/2NS.png"></img> <img src="/assets/img/HAD2023/F-Secure.png"><img>
+<img src="/assets/img/HAD2023/2NS.png" width="45%"><img src="/assets/img/HAD2023/F-Secure.png" width="45%">
 </center>
 
 # ESITYKSET
