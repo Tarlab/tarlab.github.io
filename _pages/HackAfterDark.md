@@ -13,6 +13,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 **Päätukijat**  
 ![Netox](/assets/img/HAD2023/Netox.png){:.centered}  
 ![Remod](/assets/img/HAD2023/Remod.png){:.centered}  
+![Disobey](/assets/img/HAD2023/disobey.png){:.centered}  
 
 **Tukijat**  
 ![SensorFu](/assets/img/HAD2023/SensorFu.png){:.centered}  
