@@ -4,46 +4,18 @@ title: Hack After Dark
 ---
 ![Hack After Dark logo](/assets/img/HackDark.png){:.centered}
 
-Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista, keskusteluita ja mahtavan hakkerivisan. Tälle vuodelle saunaa ei saatu järjestymään.
+Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista, keskusteluita ja mahtavan hakkerivisan. Vuonna 2024 uusituissa Johteenhovin tiloissa on nyt myös sauna.
 
-Tapahtuma järjestetään vuonna 2023 jo neljättä kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää
+Tapahtuma järjestetään vuonna 2024 jo viidettä kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää
 
 # TAPAHTUMAN TUKENA
-Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.  
-**Päätukijat**  
-![Netox](/assets/img/HAD2023/Netox.png){:.centered}  
-![Remod](/assets/img/HAD2023/Remod.png){:.centered}  
-![Disobey](/assets/img/HAD2023/disobey.png){:.centered}  
-
-**Tukijat**  
-![SensorFu](/assets/img/HAD2023/SensorFu.png){:.centered}  
-
-<center>
-<img src="/assets/img/HAD2023/2NS.png" width="45%"><img src="/assets/img/HAD2023/F-Secure.png" width="45%">
-</center>
+Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
+Vuoden 2024 tukijat vielä avoinna.
 
 # ESITYKSET
-**ATK - Uhka vai mahdollisuus**  
-Heikki Virkkunen
-
-**Fuck it, just DIY**  
-JooHoi
-
-**Detecting Adversary-in-the-Middle attacks**  
-Niklas Särökaari
-
-**Hacking hearts and minds**  
-Joakim Tauren
-
-**Communication readiness**  
-Ossi Herrala
-
-**CI/CD Security Risks**  
-Jussi Lehtonen
-
 
 # AIKA
-**21.10.2023** - noin klo 10:30 - 00:00
+**12.10.2024** - noin klo 10:30 - 00:00
 
 # ALUSTAVA OHOJELMA
 
@@ -72,8 +44,7 @@ Jussi Lehtonen
 **Hakkerivisa**  
 Hakkerihenkinen visa maineesta ja kunniasta!
 
-**Sauna?**  
-Tänä vuonna saunaa ei ikävä kyllä ole tarjolla :(
+**Sauna**  
 
 
 # JÄRJESTÄJÄ
@@ -89,14 +60,11 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
 
-Tapahtuma maksaa ei-jäsenille 15€.  
-Osallistumismaksu laskutetaan sähköpostitse.  
-Paikkoja rajatusti, peruutuspaikan jonotus mahdollista.  
-Ilmoittautuminen [FloMembers-palvelussa](https://www.flomembers.com/tarlab-oulu/events/register/eccbc87e4b5ce2fe28308fd9f2a7baf3).
+Tarkemmat tiedot tapahtumaan osallistumisesta ilmoitetaan myöhemmin.
 
 # MATRIX
 *Haluakkonää jutella?*  
-Tapahtuman etkoja, jatkoja ja muita keskusteluita voi käydä [Matrixissa](https://matrix.to/#/#had2023:hacklab.fi)
+Tapahtuman etkoja, jatkoja ja muita keskusteluita voi käydä [Matrixissa](https://matrix.to/#/#had2024:hacklab.fi)
 
 # IKÄRAJA
 *Holovaakko Nää Ööliä?*  
