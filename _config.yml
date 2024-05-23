@@ -69,7 +69,6 @@ social-network-links:
   telegram: Tarlab
   github: Tarlab
   linkedin: ../company/tarlab
-  twitter: TarlabOulu
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -81,7 +80,6 @@ rss-description: Tarlab Oulu public website
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
   mastodon: true
 
 # How to display the link to your website in the footer
