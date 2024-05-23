@@ -7,7 +7,7 @@ title: Call for Participation
 
 **Deadline:** *11.8.2024*
 
-Onko sinulla jotain [hakkeri](https://fi.wikipedia.org/wiki/Hakkeri#Hakkeri-sana)henkistä kerrottavaa, jonka haluat jakaa yleisölle? Olitpa sitten alan veteraani tai ensimmäistä kertaa puhumaan uskaltautuva, Hack After Dark haluaa kuulla siitä. Päivään mahtuu 5-6 aihetta ja ne valitaan kesän aikana. Esityksen on oltava teemaan sopiva ja se saa olla yleisempi tai erittäinkin tekninen.
+Onko sinulla jotain [hakkeri](https://fi.wikipedia.org/wiki/Hakkeri#Hakkeri-sana)henkistä kerrottavaa, jonka haluat jakaa yleisölle? Olitpa sitten alan veteraani tai ensimmäistä kertaa puhumaan uskaltautuva, Hack After Dark haluaa kuulla siitä. Päivään mahtuu 5-6 aihetta ja ne valitaan alkusyksystä. Esityksen on oltava teemaan sopiva ja se saa olla yleisempi tai erittäinkin tekninen.
 
 Esityksen pituus noin 45 minuuttia, jätäthän aikaa kysymyksille ja keskustelulle. Esitys voidaan pitää suomeksi tai englanniksi, kunhan se käy ehdotuksesta selvästi ilmi. Esitystä ei tallenneta, eikä streamata verkkoon. Kannustamme pitämään esityksen mahdollisuuksien mukaan suomeksi, jotta esiintymisen ja keskusteluun osallistumisen kynnys pysyisi mahdollisimman matalalla.
 
