@@ -15,4 +15,4 @@ Huom: Tarkista ettei esityksen materiaaleissa ole salassapidettävää, luottamu
 
 **Ehdotukset sähköpostilla:** *had-ät-tarlab.fi*
 
-**Kysymykset, kommentit yms:** sähköpostilla tai Matrixissa huoneessa [#had2024:hacklab.fi](https://matrix.to/#/#had2024:hacklab.fi) tai viestillä [Otter](@otter:hacklab.fi)
+**Kysymykset, kommentit yms:** sähköpostilla tai Matrixissa huoneessa [#had2024:hacklab.fi](https://matrix.to/#/#had2024:hacklab.fi) tai viestillä @otter:hacklab.fi
