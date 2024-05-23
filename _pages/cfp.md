@@ -13,6 +13,8 @@ Esityksen pituus noin 45 minuuttia, jätäthän aikaa kysymyksille ja keskustelu
 
 Huom: Tarkista ettei esityksen materiaaleissa ole salassapidettävää, luottamuksellista tai muutoin leimattua tietoa (confidential, company confidential, luottamuksellinen, sisäinen jne.). Esitys voi olla työnantajan kalvopohjalla. Emme kuitenkaan kaipaa mainosesitystä.
 
+Lisäksi tapahtumaan mahtuu esitysten jälkeen muutamia pöytiä erilaisiin hakkerihenkisiin aktiviteetteihin. Jos haluat opettaa kädestä pitäen miten askarrella foliohattu, tiirikoida Abloy-lukkoja tai muuta mielenkiintoista, niin otathan yhteyttä ja katsotaan miten saataisiin hommat järjestymään.
+
 **Ehdotukset sähköpostilla:** *had-ät-tarlab.fi*
 
 **Kysymykset, kommentit yms:** sähköpostilla tai Matrixissa huoneessa [#had2024:hacklab.fi](https://matrix.to/#/#had2024:hacklab.fi) tai viestillä @otter:hacklab.fi
