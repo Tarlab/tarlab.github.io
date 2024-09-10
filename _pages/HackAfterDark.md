@@ -70,7 +70,6 @@ Tapahtuman etkoja, jatkoja ja muita keskusteluita voi käydä [Matrixissa](https
 *Holovaakko Nää Ööliä?*  
 Tapahtuma on K-18.
 Tilaisuudessa saa nauttia virvokkeita kohtuudella.
-Tänä vuonna ikävä kyllä ei saunomismahdollisuutta.
 
 # PAIKKA
 *Löyäkkö Nää Perille?*  
