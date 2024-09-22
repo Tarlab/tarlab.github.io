@@ -14,6 +14,24 @@ Vuoden 2024 tukijat vielä avoinna.
 
 # ESITYKSET
 
+**From development to app sec with clean slate**
+Joni Hasanen
+
+**State of Union - Preparing for RED/CRA**
+Heikki ”zokol” Juva
+
+**Securing hyperscaling startup**
+TV
+
+**Hajautettujen viestintäratkaisujen rakentaminen ja ylläpito**
+Ossi Herrala
+
+**Yo dawg, I heard you like LLMs!**
+Atte Kettunen
+
+**TBA**
+Liv & Tapio Haapala
+
 # AIKA
 **12.10.2024** - noin klo 10:30 - 00:00
 
