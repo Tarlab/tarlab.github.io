@@ -9,8 +9,21 @@ Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma
 Tapahtuma järjestetään vuonna 2024 jo viidettä kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää
 
 # TAPAHTUMAN TUKENA
-Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
-Vuoden 2024 tukijat vielä avoinna.
+
+Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.  
+**Päätukijat**
+![Netox](/assets/img/HAD2024/Netox.png){:.centered} 
+![Remod](/assets/img/HAD2024/Remod.png){:.centered}  
+![GleSYS](/assets/img/HAD2024/GleSYS.png){:.centered}
+
+**Tukijat**
+![Disobey](/assets/img/HAD2024/disobey.png){:.centered} 
+![Sensorfu](/assets/img/HAD2024/SensorFu.png){:.centered}  
+![Silverskin](/assets/img/HAD2024/Silverskin.png){:.centered}  
+
+<center>
+<img src="/assets/img/HAD2024/Fraktal.png" width="30%">
+</center>
 
 # ESITYKSET
 
