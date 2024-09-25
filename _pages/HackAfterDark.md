@@ -6,11 +6,29 @@ title: Hack After Dark
 
 Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista, keskusteluita ja mahtavan hakkerivisan. Vuonna 2024 uusituissa Johteenhovin tiloissa on nyt myös sauna.
 
-Tapahtuma järjestetään vuonna 2024 jo viidettä kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää
+Tapahtuma järjestetään vuonna 2024 jo viidettä kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää.
 
 # TAPAHTUMAN TUKENA
-Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
-Vuoden 2024 tukijat vielä avoinna.
+
+Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea. 
+
+**Päätukijat**  
+![Netox](/assets/img/HAD2024/Netox.png){:.centered}  
+![Remod](/assets/img/HAD2024/Remod.png){:.centered}  
+![GleSYS](/assets/img/HAD2024/GleSYS.png){:.centered}
+
+**Tapahtumatilan sponsoroi**  
+
+<center><h3><a href="https://www.johteenhovi.fi/">Johteenhovi</a></h3></center>
+
+**Tukijat**  
+![Disobey](/assets/img/HAD2024/disobey.png){:.centered}  
+![Sensorfu](/assets/img/HAD2024/SensorFu.png){:.centered}  
+![Silverskin](/assets/img/HAD2024/Silverskin.png){:.centered}  
+
+<center>
+<img src="/assets/img/HAD2024/Fraktal.png" width="30%">
+</center>
 
 # ESITYKSET
 
@@ -78,9 +96,11 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
 
-Liput 20€ (jäsenille 0€)  
+Liput 20€ (jäsenille 0€) + madholliset kide.appin kulut.
 
-Tarkemmat tiedot lopunmyynnistä piakkoin.
+Tapahtuman lipunmyynti tapahtuu kide.app:in kautta, jonne voit luoda tilin jo ennen lipunmyynnin alkamista.
+
+Tapahtumailmoittautumisen löydät <a href="https://kide.app/events/aa7187b1-3e84-4a51-b945-a41be162f52c">täältä</a>.
 
 # MATRIX
 *Haluakkonää jutella?*  
