@@ -66,7 +66,7 @@ Liv & Tapio Haapala
 **Puheita**  
 
 *14:00 - 15:00*  
-**Lounas?**  
+**Lounas**  
 
 *15:00 - 18:30*  
 
