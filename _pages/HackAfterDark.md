@@ -47,10 +47,10 @@ Liv & Tapio Haapala
 
 **Puheita**  
 
-*14:00 - 14:30*  
+*14:00 - 15:00*  
 **Lounas?**  
 
-*14:30 - 18:30*  
+*15:00 - 18:30*  
 
 **Lisää puheita**  
 
@@ -78,7 +78,9 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
 
-Tarkemmat tiedot tapahtumaan osallistumisesta ilmoitetaan myöhemmin.
+Liput 20€ (jäsenille 0€)  
+
+Tarkemmat tiedot lopunmyynnistä piakkoin.
 
 # MATRIX
 *Haluakkonää jutella?*  
