@@ -10,14 +10,19 @@ Tapahtuma järjestetään vuonna 2024 jo viidettä kertaa. Aiempina vuosina tapa
 
 # TAPAHTUMAN TUKENA
 
-Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.  
-**Päätukijat**
-![Netox](/assets/img/HAD2024/Netox.png){:.centered} 
+Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea. 
+
+**Päätukijat**  
+![Netox](/assets/img/HAD2024/Netox.png){:.centered}  
 ![Remod](/assets/img/HAD2024/Remod.png){:.centered}  
 ![GleSYS](/assets/img/HAD2024/GleSYS.png){:.centered}
 
-**Tukijat**
-![Disobey](/assets/img/HAD2024/disobey.png){:.centered} 
+**Tapahtumatilan sponsoroi**  
+
+<center><h3><a href="https://www.johteenhovi.fi/">Johteenhovi</a></h3></center>
+
+**Tukijat**  
+![Disobey](/assets/img/HAD2024/disobey.png){:.centered}  
 ![Sensorfu](/assets/img/HAD2024/SensorFu.png){:.centered}  
 ![Silverskin](/assets/img/HAD2024/Silverskin.png){:.centered}  
 
