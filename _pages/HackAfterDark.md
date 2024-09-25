@@ -6,7 +6,7 @@ title: Hack After Dark
 
 Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista, keskusteluita ja mahtavan hakkerivisan. Vuonna 2024 uusituissa Johteenhovin tiloissa on nyt myös sauna.
 
-Tapahtuma järjestetään vuonna 2024 jo viidettä kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää
+Tapahtuma järjestetään vuonna 2024 jo viidettä kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää.
 
 # TAPAHTUMAN TUKENA
 
@@ -96,7 +96,9 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
 
-Tarkemmat tiedot tapahtumaan osallistumisesta ilmoitetaan myöhemmin.
+Tapahtuman lipunmyynti tapahtuu kide.app:in kautta, jonne voit luoda tilin jo ennen lipunmyynnin alkamista.
+
+Tapahtumailmoittautumisen löydät <a href="https://kide.app/events/aa7187b1-3e84-4a51-b945-a41be162f52c">täältä</a>.
 
 # MATRIX
 *Haluakkonää jutella?*  
