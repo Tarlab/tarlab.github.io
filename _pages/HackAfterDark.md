@@ -13,7 +13,8 @@ Tapahtuma järjestetään vuonna 2024 jo viidettä kertaa. Aiempina vuosina tapa
 Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea. 
 
 **Päätukijat**  
-![Netox](/assets/img/HAD2024/Netox.png){:.centered}  
+
+![Netox](/assets/img/HAD2024/Netox-Horizontal-50.png){:.centered}  
 ![Remod](/assets/img/HAD2024/Remod.png){:.centered}  
 ![GleSYS](/assets/img/HAD2024/GleSYS.png){:.centered}
 
@@ -26,9 +27,9 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 ![Sensorfu](/assets/img/HAD2024/SensorFu.png){:.centered}  
 ![Silverskin](/assets/img/HAD2024/Silverskin.png){:.centered}  
 
-<center>
-<img src="/assets/img/HAD2024/Fraktal.png" width="30%">
-</center>
+
+![Fraktal](/assets/img/HAD2024/Fraktal.png){:.centered} 
+
 
 # ESITYKSET
 
@@ -96,7 +97,7 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
 
-Liput 20€ (jäsenille 0€) + madholliset kide.appin kulut.
+Liput 20€ (jäsenille 0€) + mahdolliset kide.appin kulut.
 
 Tapahtuman lipunmyynti tapahtuu kide.app:in kautta, jonne voit luoda tilin jo ennen lipunmyynnin alkamista.
 
