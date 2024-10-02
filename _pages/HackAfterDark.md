@@ -39,8 +39,8 @@ Joni Hasanen
 **State of Union - Preparing for RED/CRA**  
 Heikki ”zokol” Juva
 
-**Securing hyperscaling startup**  
-TV
+~~**Securing hyperscaling startup**  
+TV~~
 
 **Hajautettujen viestintäratkaisujen rakentaminen ja ylläpito**  
 Ossi Herrala
