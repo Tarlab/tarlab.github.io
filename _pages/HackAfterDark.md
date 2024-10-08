@@ -30,13 +30,10 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 ![Fraktal](/assets/img/HAD2024/Fraktal.png){:.centered} 
 
-
-# ESITYKSET
-
 # AIKA
 **12.10.2024** - noin klo 10:30 - 00:00
 
-# ALUSTAVA OHOJELMA
+# OHOJELMA
 
 *10:30*  
 **Ovet avataan**
