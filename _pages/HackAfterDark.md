@@ -33,24 +33,6 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 # ESITYKSET
 
-**From development to app sec with clean slate**  
-Joni Hasanen
-
-**State of Union - Preparing for RED/CRA**  
-Heikki ”zokol” Juva
-
-~~**Securing hyperscaling startup**  
-TV~~
-
-**Hajautettujen viestintäratkaisujen rakentaminen ja ylläpito**  
-Ossi Herrala
-
-**Yo dawg, I heard you like LLMs!**  
-Atte Kettunen
-
-**TBA**  
-Liv & Tapio Haapala
-
 # AIKA
 **12.10.2024** - noin klo 10:30 - 00:00
 
@@ -61,17 +43,32 @@ Liv & Tapio Haapala
 
 *10:45*  
 **Tapahtuman avaus**  
+Miikka "otter" Saukko
 
 *11:00 - 14:00*  
 
-**Puheita**  
+**TBA**  
+Liv & Tapio Haapala
+
+**From development to app sec with clean slate**  
+Joni Hasanen
+
+**Hajautettujen viestintäratkaisujen rakentaminen ja ylläpito**  
+Ossi Herrala
 
 *14:00 - 15:00*  
 **Lounas**  
 
 *15:00 - 18:30*  
 
-**Lisää puheita**  
+**State of Union - Preparing for RED/CRA**  
+Heikki ”zokol” Juva
+
+**Glitchaus 101**
+Tuukka "TKffTK" Kivilahti
+
+**Yo dawg, I heard you like LLMs!**  
+Atte Kettunen
 
 *19:00*  
 **Salamapuheet**
@@ -82,7 +79,7 @@ Liv & Tapio Haapala
 Hakkerihenkinen visa maineesta ja kunniasta!
 
 **Sauna**  
-
+Omat pyyhkeet mukaan.
 
 # JÄRJESTÄJÄ
 *Tunnekko Nää Meitä?*  
