@@ -44,7 +44,7 @@ Miikka "otter" Saukko
 
 *11:00 - 14:00*  
 
-**TBA**  
+**Johteenhovi - Pientä pintaremonttia**  
 Liv & Tapio Haapala
 
 **From development to app sec with clean slate**  
