@@ -64,7 +64,8 @@ round-avatar: true
 social-network-links:
   email: "hallitus (a) tarlab.fi"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  mastodon: some.hacklab.fi/@tarlab
+  mastodon: "some.hacklab.fi/@tarlab"
+  matrix: "#tarlab-public:hacklab.fi"
   youtube: "@tarlaboulu"
 #  telegram: Tarlab
   github: Tarlab
