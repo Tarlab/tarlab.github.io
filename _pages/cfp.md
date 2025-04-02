@@ -2,10 +2,10 @@
 layout: page
 title: Call for Participation
 ---
-# Hack After Dark 2024
-[12.10.2024 @ Johteenhovi, Oulu](https://tarlab.fi/HackAfterDark)
+# Hack After Dark 2025
+[18.10.2025 @ Johteenhovi, Oulu](https://tarlab.fi/HackAfterDark)
 
-**Deadline:** *11.8.2024*
+**Deadline:** *18.8.2025*
 
 Onko sinulla jotain [hakkeri](https://fi.wikipedia.org/wiki/Hakkeri#Hakkeri-sana)henkistä kerrottavaa, jonka haluat jakaa yleisölle? Olitpa sitten alan veteraani tai ensimmäistä kertaa puhumaan uskaltautuva, Hack After Dark haluaa kuulla siitä. Päivään mahtuu 5-6 aihetta ja ne valitaan alkusyksystä. Esityksen on oltava teemaan sopiva ja se saa olla yleisempi tai erittäinkin tekninen.
 
@@ -17,4 +17,4 @@ Lisäksi tapahtumaan mahtuu esitysten jälkeen muutamia pöytiä erilaisiin hakk
 
 **Ehdotukset sähköpostilla:** *had-ät-tarlab.fi*
 
-**Kysymykset, kommentit yms:** sähköpostilla tai Matrixissa huoneessa [#had2024:hacklab.fi](https://matrix.to/#/#had2024:hacklab.fi) tai viestillä @otter:hacklab.fi
+**Kysymykset, kommentit yms:** sähköpostilla tai Matrixissa huoneessa [#had2025:hacklab.fi](https://matrix.to/#/#had2025:hacklab.fi) tai viestillä @otter:hacklab.fi
