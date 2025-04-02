@@ -38,7 +38,6 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 **Tapahtuman avaus**  
 
 *11:00 - 14:00*  
-
 **Puheita**  
 [Puhujat vielä etsinnässä](https://tarlab.fi/cfp)
 
@@ -46,7 +45,6 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 **Lounas**  
 
 *15:00 - 18:30*  
-
 **Puheita**  
 [Puhujat vielä etsinnässä](https://tarlab.fi/cfp)
 
@@ -75,7 +73,6 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
-
 Tulossa parempi lipunmyynti kuin koskaan?
 
 # MATRIX
