@@ -24,7 +24,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 <center><h3><a href="https://www.johteenhovi.fi/">Johteenhovi</a></h3></center>
 
 **Tukijat**  
-![Tukijaksi](/assets/img/Tukijaksi.png){:.centered width="75%"}  
+![Tukijaksi](/assets/img/Tukijaksi.png){:.centered width="25%"}  
 
 # AIKA
 **18.10.2025** - noin klo 10:30 - 00:00
