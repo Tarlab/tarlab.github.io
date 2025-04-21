@@ -13,18 +13,18 @@ Tapahtuma järjestetään vuonna 2025 jo kuudetta kertaa. Aiempina vuosina tapah
 
 # TAPAHTUMAN TUKENA
 
-Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea. 
+Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden [tukea](https://tarlab.fi/sponssi). 
 
 **Päätukijat**  
 
-![Tukijaksi](/assets/img/Tukijaksi.png){:.centered}  
+[![Tukijaksi](/assets/img/Tukijaksi.png)](https://tarlab.fi/sponssi){:.centered}  
 
 **Tapahtumatilan sponsoroi**  
 
 <center><h3><a href="https://www.johteenhovi.fi/">Johteenhovi</a></h3></center>
 
 **Tukijat**  
-![Tukijaksi](/assets/img/Tukijaksi.png){:.centered width="25%"}  
+[![Tukijaksi](/assets/img/Tukijaksi.png)](https://tarlab.fi/sponssi){:.centered width="25%"}  
 
 # AIKA
 **18.10.2025** - noin klo 10:30 - 00:00
