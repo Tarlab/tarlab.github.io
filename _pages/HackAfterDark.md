@@ -13,11 +13,11 @@ Tapahtuma järjestetään vuonna 2025 jo kuudetta kertaa. Aiempina vuosina tapah
 
 Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea. 
 
-**Päätukijat**  
+**Päätukijat**
 
-![Remod](/assets/img/HAD2025/Remod.png){:.centered}
-![Netox](/assets/img/HAD2025/Netox-Horizontal-50.png){:.centered}
-![Disobey](/assets/img/HAD2025/disobey.png){:.centered}
+[![Remod](/assets/img/HAD2025/Remod.png)](https://remod.fi){:.centered}
+[![Netox](/assets/img/HAD2025/Netox-Horizontal-50.png)](https://netox.com){:.centered}
+[![Disobey](/assets/img/HAD2025/disobey.png)](https://disobey.fi){:.centered}
 
 **Tapahtumatilan sponsoroi**  
 
@@ -28,9 +28,9 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 ![SensorFleet](/assets/img/HAD2025/sensorfleet.png){:.centered}
 
 <center>
-<img src="/assets/img/HAD2025/SensorFu.png" width="30%">
-<img src="/assets/img/HAD2025/Prove.png" width="30%">
-<img src="/assets/img/HAD2025/reversec.png" width="30%">
+<a href="https://sensorfu.com"><img src="/assets/img/HAD2025/SensorFu.png" width="30%" alt="SensorFu"></a>
+<a href="https://www.prove.fi"><img src="/assets/img/HAD2025/Prove.png" width="30%" alt="Prove Expertise"></a>
+<a href="https://reversec.com"><img src="/assets/img/HAD2025/reversec.png" width="30%" alt="Reversec"></a>
 </center>
 
 
