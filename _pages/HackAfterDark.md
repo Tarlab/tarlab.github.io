@@ -25,9 +25,13 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 **Tukijat**  
 ![SensorFleet](/assets/img/HAD2025/sensorfleet.png){:.centered}
-![SensorFu](/assets/img/HAD2025/SensorFu.png){:.centered}
-![Prove Expertise](/assets/img/HAD2025/Prove.png){:.centered}  
-![Reversec](/assets/img/HAD2025/reversec.png){:.centered}  
+
+<center>
+<img src="/assets/img/HAD2025/SensorFu.png" width="30%">
+<img src="/assets/img/HAD2025/Prove.png" width="30%">
+<img src="/assets/img/HAD2025/reversec.png" width="30%">
+</center>
+
 
 # AIKA
 **18.10.2025** - noin klo 10:30 - 00:00
