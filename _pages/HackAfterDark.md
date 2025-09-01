@@ -11,7 +11,7 @@ Tapahtuma järjestetään vuonna 2025 jo kuudetta kertaa. Aiempina vuosina tapah
 
 # TAPAHTUMAN TUKENA
 
-Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden [tukea](https://tarlab.fi/sponssi). 
+Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea. 
 
 **Päätukijat**  
 
@@ -42,14 +42,14 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden [tukea](https://tarl
 
 *11:00 - 14:00*  
 **Puheita**  
-[Puhujat vielä etsinnässä](https://tarlab.fi/cfp)
+Puhujat TBA
 
 *14:00 - 15:00*  
 **Lounas**  
 
 *15:00 - 18:30*  
 **Puheita**  
-[Puhujat vielä etsinnässä](https://tarlab.fi/cfp)
+Puhujat TBA
 
 
 *19:00*  
