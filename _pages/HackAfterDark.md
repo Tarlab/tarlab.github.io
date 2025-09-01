@@ -25,7 +25,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 **Tukijat**  
 
-![SensorFleet](/assets/img/HAD2025/sensorfleet.png){:.centered}
+[![SensorFleet](/assets/img/HAD2025/sensorfleet.png)](https://sensorfleet.com){:.centered}
 
 <center>
 <a href="https://sensorfu.com"><img src="/assets/img/HAD2025/SensorFu.png" width="30%" alt="SensorFu"></a>
