@@ -16,7 +16,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 **Päätukijat**  
 
 ![Remod](/assets/img/HAD2025/Remod.png){:.centered}
-![Netox](/assets/img/HAD2025/Netox.png){:.centered}
+![Netox](/assets/img/HAD2025/Netox-Horizontal-50.png){:.centered}
 ![Disobey](/assets/img/HAD2025/disobey.png){:.centered}
 
 **Tapahtumatilan sponsoroi**  
@@ -24,10 +24,15 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 <center><h3><a href="https://www.johteenhovi.fi/">Johteenhovi</a></h3></center>
 
 **Tukijat**  
+
 ![SensorFleet](/assets/img/HAD2025/sensorfleet.png){:.centered}
-![SensorFu](/assets/img/HAD2025/SensorFu.png){:.centered}
-![Prove Expertise](/assets/img/HAD2025/Prove.png){:.centered}  
-![Reversec](/assets/img/HAD2025/reversec.png){:.centered}  
+
+<center>
+<img src="/assets/img/HAD2025/SensorFu.png" width="30%">
+<img src="/assets/img/HAD2025/Prove.png" width="30%">
+<img src="/assets/img/HAD2025/reversec.png" width="30%">
+</center>
+
 
 # AIKA
 **18.10.2025** - noin klo 10:30 - 00:00
