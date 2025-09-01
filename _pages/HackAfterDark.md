@@ -24,6 +24,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 <center><h3><a href="https://www.johteenhovi.fi/">Johteenhovi</a></h3></center>
 
 **Tukijat**  
+
 ![SensorFleet](/assets/img/HAD2025/sensorfleet.png){:.centered}
 
 <center>
