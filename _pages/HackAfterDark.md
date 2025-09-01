@@ -8,8 +8,6 @@ Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma
 
 Tapahtuma järjestetään vuonna 2025 jo kuudetta kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää. Järjestäjä tarjoaa päivän aikana ruoan (sponsoritilanteesta riippuen) ja kevyitä virvokkeita, kisajuomat saa jokainen tuoda mukanaan.
 
-[Puhujaksi?](https://tarlab.fi/cfp){:.centered}
-
 
 # TAPAHTUMAN TUKENA
 
@@ -17,14 +15,19 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden [tukea](https://tarl
 
 **Päätukijat**  
 
-[![Tukijaksi](/assets/img/Tukijaksi.png)](https://tarlab.fi/sponssi){:.centered}  
+![Remod](/assets/img/HAD2025/Remod.png){:.centered}
+![Netox](/assets/img/HAD2025/Netox.png){:.centered}
+![Disobey](/assets/img/HAD2025/disobey.png){:.centered}
 
 **Tapahtumatilan sponsoroi**  
 
 <center><h3><a href="https://www.johteenhovi.fi/">Johteenhovi</a></h3></center>
 
 **Tukijat**  
-[![Tukijaksi](/assets/img/Tukijaksi.png)](https://tarlab.fi/sponssi){:.centered width="25%"}  
+[SensorFleet](/assets/img/HAD2025/sensorfleet.png){:.centered}
+[SensorFu](/assets/img/HAD2025/SensorFu.png){:.centered}
+[Prove Expertise](/assets/img/HAD2025/Prove.png){:.centered}  
+[Reversec](/assets/img/HAD2025/Reversec.png){:.centered}  
 
 # AIKA
 **18.10.2025** - noin klo 10:30 - 00:00
