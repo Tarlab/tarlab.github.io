@@ -49,10 +49,10 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 **Turvallisempaa koodia etsimässä - Miksi ohjelmistoturvallisuus on myös kyberiä?**  
 Karoliina Kemppainen
 
-**Universaali aimbot Pythonilla**
+**Universaali aimbot Pythonilla**  
 Niila Viinamäki
 
-**TBA**
+**TBA**  
 TBA
 
 *14:00 - 15:00*  
