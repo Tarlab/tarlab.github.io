@@ -46,8 +46,14 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 **Tapahtuman avaus**  
 
 *11:00 - 14:00*  
-**Puheita**  
-Puhujat TBA
+**Turvallisempaa koodia etsimässä - Miksi ohjelmistoturvallisuus on myös kyberiä?**  
+Karoliina Kemppainen
+
+**Universaali aimbot Pythonilla**
+Niila Viinamäki
+
+**TBA**
+TBA
 
 *14:00 - 15:00*  
 **Lounas**  
