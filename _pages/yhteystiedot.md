@@ -6,7 +6,7 @@ Osoite: Valtatie 67, 90500 Oulu
 Puhelin labille ehkä tulossa.  
 Hallitus: hallitus (a) tarlab.fi
 
-Tarlabin aktiivit saa parhaiten kiinni [Matrixissa](https://matrix.to/#/#tarlab-public:hacklab.fi), [Telegramissa](https://t.me/Tarlab) tai IRC:ssä (#Tarlab@IRCnet). Kaikki edellämainitut on sillattu keskenään.
+Tarlabin aktiivit saa parhaiten kiinni [Matrixissa](https://matrix.to/#/#tarlab-public:hacklab.fi), [Telegramissa](https://t.me/+iIwLRGrw4l04YmJk) tai IRC:ssä (#Tarlab@IRCnet). Kaikki edellämainitut on sillattu keskenään.
 
 Jäsenille on lisäksi oma sisäinen kutsulla toimiva Matrix-space, jonne pääsee helpoiten [eteishuoneen](https://matrix.to/#/#tarlab-waiting:hacklab.fi) kautta tai laittamalla viestiä esim. @otter:hacklab.fi
 
