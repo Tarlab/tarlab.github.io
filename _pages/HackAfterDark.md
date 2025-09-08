@@ -15,9 +15,9 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 **Päätukijat**
 
-[![Remod](/assets/img/HAD2025/Remod.png)](https://remod.fi){:.centered :width="400"}
-[![Netox](/assets/img/HAD2025/Netox-Horizontal-50.png)](https://netox.com){:.centered :width="400"}
-[![Disobey](/assets/img/HAD2025/disobey.png)](https://disobey.fi){:.centered :width="400"}
+[![Remod](/assets/img/HAD2025/Remod.png)](https://remod.fi){:.centered width="400"}
+[![Netox](/assets/img/HAD2025/Netox-Horizontal-50.png)](https://netox.com){:.centered width="400"}
+[![Disobey](/assets/img/HAD2025/disobey.png)](https://disobey.fi){:.centered width="450"}
 
 **Tapahtumatilan sponsoroi**  
 
@@ -25,7 +25,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 **Tukijat**  
 
-[![SensorFleet](/assets/img/HAD2025/sensorfleet.png)](https://sensorfleet.com){:.centered :width="100"}
+[![SensorFleet](/assets/img/HAD2025/sensorfleet.png)](https://sensorfleet.com){:.centered width="100"}
 
 <center>
 <a href="https://sensorfu.com"><img src="/assets/img/HAD2025/SensorFu.png" width="20%" alt="SensorFu"></a>
