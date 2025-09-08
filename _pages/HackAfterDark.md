@@ -15,9 +15,9 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 **Päätukijat**
 
-[![Remod](/assets/img/HAD2025/Remod.png)](https://remod.fi){:.centered}
-[![Netox](/assets/img/HAD2025/Netox-Horizontal-50.png)](https://netox.com){:.centered}
-[![Disobey](/assets/img/HAD2025/disobey.png)](https://disobey.fi){:.centered}
+[![Remod](/assets/img/HAD2025/Remod.png)](https://remod.fi){:.centered :width="400"}
+[![Netox](/assets/img/HAD2025/Netox-Horizontal-50.png)](https://netox.com){:.centered :width="400"}
+[![Disobey](/assets/img/HAD2025/disobey.png)](https://disobey.fi){:.centered :width="400"}
 
 **Tapahtumatilan sponsoroi**  
 
@@ -28,9 +28,9 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 [![SensorFleet](/assets/img/HAD2025/sensorfleet.png)](https://sensorfleet.com){:.centered}
 
 <center>
-<a href="https://sensorfu.com"><img src="/assets/img/HAD2025/SensorFu.png" width="30%" alt="SensorFu"></a>
-<a href="https://www.prove.fi"><img src="/assets/img/HAD2025/Prove.png" width="30%" alt="Prove Expertise"></a>
-<a href="https://reversec.com"><img src="/assets/img/HAD2025/reversec.png" width="30%" alt="Reversec"></a>
+<a href="https://sensorfu.com"><img src="/assets/img/HAD2025/SensorFu.png" width="20%" alt="SensorFu"></a>
+<a href="https://reversec.com"><img src="/assets/img/HAD2025/reversec.png" width="20%" alt="Reversec"></a>
+<a href="https://www.prove.fi"><img src="/assets/img/HAD2025/Prove.png" width="20%" alt="Prove Expertise"></a>
 </center>
 
 
