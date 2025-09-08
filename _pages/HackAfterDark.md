@@ -17,15 +17,15 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 <center>
 <p>
-<a href="https://remod.fi"><img src="/assets/img/HAD2025/Remod.png" width="100%" alt="Remod"></a>
+<a href="https://remod.fi"><img src="/assets/img/HAD2025/Remod.png" width="70%" alt="Remod"></a>
 </p>
  
 <p>
-<a href="https://netox"><img src="/assets/img/HAD2025/Netox-Horizontal-50.png" width="100%" alt="Netox"></a>
+<a href="https://netox"><img src="/assets/img/HAD2025/Netox-Horizontal-50.png" width="70%" alt="Netox"></a>
 </p>
 
 <p>
-<a href="https://disobey.fi"><img src="/assets/img/HAD2025/disobey.png" width="100%" alt="Disobey"></a>
+<a href="https://disobey.fi"><img src="/assets/img/HAD2025/disobey.png" width="75%" alt="Disobey"></a>
 </p>
 </center>
 
