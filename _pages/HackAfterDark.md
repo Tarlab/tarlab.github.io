@@ -117,4 +117,4 @@ Käyttäydy kunnolla
 **Esitykset**: [Traffic Light Protocol - TLP](https://en.wikipedia.org/wiki/Traffic_Light_Protocol)
 
 **Illanvietto**:
-*Chatham house rule: "When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed."*
+*Chatham house rule: "When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed."* 
