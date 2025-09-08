@@ -15,19 +15,9 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 **Päätukijat**
 
-<center>
-<p>
-<a href="https://remod.fi"><img src="/assets/img/HAD2025/Remod.png" width="70%" alt="Remod"></a>
-</p>
- 
-<p>
-<a href="https://netox"><img src="/assets/img/HAD2025/Netox-Horizontal-50.png" width="70%" alt="Netox"></a>
-</p>
-
-<p>
-<a href="https://disobey.fi"><img src="/assets/img/HAD2025/disobey.png" width="75%" alt="Disobey"></a>
-</p>
-</center>
+[![Remod](/assets/img/HAD2025/Remod.png)](https://remod.fi){:.centered}
+[![Netox](/assets/img/HAD2025/Netox-Horizontal-50.png)](https://netox.com){:.centered}
+[![Disobey](/assets/img/HAD2025/disobey.png)](https://disobey.fi){:.centered}
 
 **Tapahtumatilan sponsoroi**  
 
