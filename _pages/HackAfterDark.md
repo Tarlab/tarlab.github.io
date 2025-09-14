@@ -55,6 +55,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 *10:45*  
 **Tapahtuman avaus**  
+Miikka Saukko
 
 *11:00 - 14:00*  
 **Turvallisempaa koodia etsimässä - Miksi ohjelmistoturvallisuus on myös kyberiä?**  
@@ -63,16 +64,22 @@ Karoliina Kemppainen
 **Universaali aimbot Pythonilla**  
 Niila Viinamäki
 
-**TBA**  
-TBA
+**Thinking Outside the (Linux) Box: Security Considerations From Human Actors**  
+Esa Jääskelä
 
 *14:00 - 15:00*  
 **Lounas**  
 
 *15:00 - 18:30*  
-**Puheita**  
-Puhujat TBA
 
+**The obligatory AI talk**  
+Jussi Eronen
+
+**Summer of Things**  
+Jere & Jack
+
+**How to make games for Commodore 64 in 2025**  
+Netta Heikkinen
 
 *19:00*  
 **Salamapuheet**
