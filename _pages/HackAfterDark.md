@@ -48,7 +48,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 # AIKA
 **18.10.2025** - noin klo 10:30 - 00:00
 
-# OHOJELMA (vahvasti alustava)
+# OHOJELMA
 
 *10:30*  
 **Ovet avataan**
