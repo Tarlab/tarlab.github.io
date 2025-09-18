@@ -48,7 +48,8 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 # AIKA
 **18.10.2025** - noin klo 10:30 - 00:00
 
-# OHOJELMA
+# OHOJELMA  
+*Alustava*
 
 *10:30*  
 **Ovet avataan**
@@ -67,16 +68,19 @@ Niila Viinamäki
 **Thinking Outside the (Linux) Box: Security Considerations From Human Actors**  
 Esa Jääskelä
 
-*14:00 - 15:00*  
+*~14:00 - 14:45*  
 **Lounas**  
 
-*15:00 - 18:30*  
+*14:45 - 18:30*  
 
 **The obligatory AI talk**  
 Jussi Eronen
 
 **Summer of Things**  
 Jere & Jack
+
+**Totally OT**
+Olli Rajala
 
 **How to make games for Commodore 64 in 2025**  
 Netta Heikkinen
