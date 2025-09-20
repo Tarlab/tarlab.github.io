@@ -73,7 +73,7 @@ Esa Jääskelä
 
 *14:45 - 18:30*  
 
-**The obligatory AI talk**  
+**The obligatory AI talk** 🇫🇮/🇬🇧  
 Jussi Eronen
 
 **Summer of Things**  
@@ -86,7 +86,7 @@ Olli Rajala
 Netta Heikkinen
 
 *19:00*  
-**Salamapuheet**
+**Salamapuheet** 🇫🇮/🇬🇧  
 
 (｡◕‿‿◕｡)
 
