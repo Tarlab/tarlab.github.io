@@ -59,10 +59,10 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 Miikka Saukko
 
 *11:00 - 14:00*  
-**Turvallisempaa koodia etsimässä - Miksi ohjelmistoturvallisuus on myös kyberiä?**  
+**Turvallisempaa koodia etsimässä - Miksi ohjelmistoturvallisuus on myös kyberiä?** 🇫🇮  
 Karoliina Kemppainen
 
-**Universaali aimbot Pythonilla**  
+**Universaali aimbot Pythonilla** 🇫🇮  
 Niila Viinamäki
 
 **Thinking Outside the (Linux) Box: Security Considerations From Human Actors**  
@@ -79,10 +79,10 @@ Jussi Eronen
 **Summer of Things**  
 Jere & Jack
 
-**Totally OT**🇫🇮  
+**Totally OT** 🇫🇮  
 Olli Rajala
 
-**How to make games for Commodore 64 in 2025**  
+**How to make games for Commodore 64 in 2025** 🇬🇧  
 Netta Heikkinen
 
 *19:00*  
