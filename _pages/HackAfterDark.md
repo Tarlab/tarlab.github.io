@@ -79,7 +79,7 @@ Jussi Eronen
 **Summer of Things**  
 Jere & Jack
 
-**Totally OT**  
+**Totally OT**🇫🇮  
 Olli Rajala
 
 **How to make games for Commodore 64 in 2025**  
