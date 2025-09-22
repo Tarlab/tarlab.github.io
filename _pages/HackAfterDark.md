@@ -55,7 +55,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 **Ovet avataan**
 
 *10:45*  
-**Tapahtuman avaus**  
+**Tapahtuman avaus** 🇫🇮/🇬🇧  
 Miikka Saukko
 
 *11:00 - 14:00*  
@@ -65,11 +65,11 @@ Karoliina Kemppainen
 **Universaali aimbot Pythonilla** 🇫🇮  
 Niila Viinamäki
 
-**Thinking Outside the (Linux) Box: Security Considerations From Human Actors**  
+**Thinking Outside the (Linux) Box: Security Considerations From Human Actors** 🇫🇮  
 Esa Jääskelä
 
 *~14:00 - 14:45*  
-**Lounas**  
+**Lounas** 🍲  
 
 *14:45 - 18:30*  
 
@@ -90,10 +90,10 @@ Netta Heikkinen
 
 (｡◕‿‿◕｡)
 
-**Hakkerivisa**  
+**Hakkerivisa** 🇫🇮  
 Hakkerihenkinen visa maineesta ja kunniasta!
 
-**Sauna**  
+**Sauna** 🇫🇮/🇬🇧/🇸🇪  
 Suurempana kuin koskaan ennen?  
 Omat pyyhkeet mukaan.
 
