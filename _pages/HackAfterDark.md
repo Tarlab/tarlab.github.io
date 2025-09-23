@@ -6,7 +6,7 @@ title: Hack After Dark
 
 Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista, keskusteluita ja mahtavan hakkerivisan. Hack After Dark on matalan kynnyksen tapahtumana mainio mahdollisuus aloitteleville puhujille päästä kokeilemaan siipiään tai jo kokeneemmalle puhujalle päästä kokemaan hieman erilainen ympäristö esityksen pitämiselle. Tapahtuman yleisö on perinteisesi ollut aktiivinen kysymyksin, onpa joskus nähty suunnittelemattomasti polveilevaakin keskustelua useamman esittäjän ja osallistujan kesken. Kynnyksen mataluuden takaamiseksi tapahtumassa esityksen saa pitää suomeksi tai englanniksi.
 
-Tapahtuma järjestetään vuonna 2025 jo kuudetta kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää. Järjestäjä tarjoaa päivän aikana ruoan (sponsoritilanteesta riippuen) ja kevyitä virvokkeita, kisajuomat saa jokainen tuoda mukanaan.
+Tapahtuma järjestetään vuonna 2025 jo kuudetta kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää. Järjestäjä tarjoaa päivän aikana ruoan ja kevyitä virvokkeita, kisajuomat saa jokainen tuoda mukanaan.
 
 
 # TAPAHTUMAN TUKENA
@@ -49,7 +49,6 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 **18.10.2025** - noin klo 10:30 - 00:00
 
 # OHOJELMA  
-*Alustava*
 
 *10:30*  
 **Ovet avataan**
@@ -94,7 +93,7 @@ Netta Heikkinen
 Hakkerihenkinen visa maineesta ja kunniasta!
 
 **Sauna** 🇫🇮/🇬🇧/🇸🇪  
-Suurempana kuin koskaan ennen?  
+Suurempana kuin koskaan ennen.  
 Omat pyyhkeet mukaan.
 
 # JÄRJESTÄJÄ
@@ -109,7 +108,8 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
-Tulossa parempi lipunmyynti kuin koskaan?
+[Lipunmyynti](https://kide.app/events/ebef66f6-195d-4f3f-9399-51bcb2abc75b) aukeaa 1.10.2025.
+
 
 # MATRIX
 *Haluakkonää jutella?*  
