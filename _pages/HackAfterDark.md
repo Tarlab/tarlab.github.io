@@ -4,7 +4,7 @@ title: Hack After Dark
 ---
 ![Hack After Dark logo](/assets/img/HackDark.png){:.centered}
 
-Hack After Dark on Oulussa järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista, keskusteluita ja mahtavan hakkerivisan. Hack After Dark on matalan kynnyksen tapahtumana mainio mahdollisuus aloitteleville puhujille päästä kokeilemaan siipiään tai jo kokeneemmalle puhujalle päästä kokemaan hieman erilainen ympäristö esityksen pitämiselle. Tapahtuman yleisö on perinteisesi ollut aktiivinen kysymyksin, onpa joskus nähty suunnittelemattomasti polveilevaakin keskustelua useamman esittäjän ja osallistujan kesken. Kynnyksen mataluuden takaamiseksi tapahtumassa esityksen saa pitää suomeksi tai englanniksi.
+Hack After Dark on Oulussa 18.10.2025 järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista, keskusteluita ja mahtavan hakkerivisan. Hack After Dark on matalan kynnyksen tapahtumana mainio mahdollisuus aloitteleville puhujille päästä kokeilemaan siipiään tai jo kokeneemmalle puhujalle päästä kokemaan hieman erilainen ympäristö esityksen pitämiselle. Tapahtuman yleisö on perinteisesi ollut aktiivinen kysymyksin, onpa joskus nähty suunnittelemattomasti polveilevaakin keskustelua useamman esittäjän ja osallistujan kesken. Kynnyksen mataluuden takaamiseksi tapahtumassa esityksen saa pitää suomeksi tai englanniksi.
 
 Tapahtuma järjestetään vuonna 2025 jo kuudetta kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää. Järjestäjä tarjoaa päivän aikana ruoan ja kevyitä virvokkeita, kisajuomat saa jokainen tuoda mukanaan.
 
@@ -108,7 +108,7 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
-[Lipunmyynti](https://kide.app/events/ebef66f6-195d-4f3f-9399-51bcb2abc75b) aukeaa 1.10.2025.
+[Lipunmyynti](https://kide.app/events/ebef66f6-195d-4f3f-9399-51bcb2abc75b/tickets/6d51724b-9d82-4584-85b0-7bb69a4283fb) (1.10.2025->).
 
 
 # MATRIX
