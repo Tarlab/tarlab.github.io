@@ -2,7 +2,7 @@
 layout: page
 title: Hack After Dark
 ---
-![Hack After Dark logo](/assets/img/HackDark.png){:.centered}
+![Hack After Dark logo](/assets/img/HackAfterDark.png){:.centered}
 
 Hack After Dark on Oulussa 18.10.2025 järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista, keskusteluita ja mahtavan hakkerivisan. Hack After Dark on matalan kynnyksen tapahtumana mainio mahdollisuus aloitteleville puhujille päästä kokeilemaan siipiään tai jo kokeneemmalle puhujalle päästä kokemaan hieman erilainen ympäristö esityksen pitämiselle. Tapahtuman yleisö on perinteisesi ollut aktiivinen kysymyksin, onpa joskus nähty suunnittelemattomasti polveilevaakin keskustelua useamman esittäjän ja osallistujan kesken. Kynnyksen mataluuden takaamiseksi tapahtumassa esityksen saa pitää suomeksi tai englanniksi.
 
