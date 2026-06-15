@@ -9,4 +9,4 @@ Tarlab Oulu ry etsii tukijoita vuoden 2026 Hack After Darkille. Tapahtumaa voi t
 
 **Mikäli tapahtuman tukeminen kiinnostaa, tai haluat kysyä lisätietoja aiheesta, se onnistuu parhaiten lähettämällä sähköpostia osoitteeseen:** *jaakko.rajakallio-ät-tarlab.fi* tai *had-ät-tarlab.fi*
 
-
+[Hack After Dark 2026 sponsorikirje](HAD-2026-sponsorikirje.pdf)
