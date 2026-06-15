@@ -4,85 +4,49 @@ title: Hack After Dark
 ---
 ![Hack After Dark logo](/assets/img/HackAfterDark.png){:.centered}
 
-Hack After Dark on Oulussa 18.10.2025 järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista, keskusteluita ja mahtavan hakkerivisan. Hack After Dark on matalan kynnyksen tapahtumana mainio mahdollisuus aloitteleville puhujille päästä kokeilemaan siipiään tai jo kokeneemmalle puhujalle päästä kokemaan hieman erilainen ympäristö esityksen pitämiselle. Tapahtuman yleisö on perinteisesi ollut aktiivinen kysymyksin, onpa joskus nähty suunnittelemattomasti polveilevaakin keskustelua useamman esittäjän ja osallistujan kesken. Kynnyksen mataluuden takaamiseksi tapahtumassa esityksen saa pitää suomeksi tai englanniksi.
+Hack After Dark on Oulussa 7.11.2026 järjestettävä hakkerihenkinen tapahtuma. Tapahtuma on vapaamuotoinen, sisältää puheenvuoroja, verkostoitumista, keskusteluita ja mahtavan hakkerivisan. Hack After Dark on matalan kynnyksen tapahtumana mainio mahdollisuus aloitteleville puhujille päästä kokeilemaan siipiään tai jo kokeneemmalle puhujalle päästä kokemaan hieman erilainen ympäristö esityksen pitämiselle. Tapahtuman yleisö on perinteisesi ollut aktiivinen kysymyksin, onpa joskus nähty suunnittelemattomasti polveilevaakin keskustelua useamman esittäjän ja osallistujan kesken. Kynnyksen mataluuden takaamiseksi tapahtumassa esityksen saa pitää suomeksi tai englanniksi.
 
-Tapahtuma järjestetään vuonna 2025 jo kuudetta kertaa. Aiempina vuosina tapahtumassa on ollut noin 80 osallistujaa, puhujaa ja järjestäjää. Järjestäjä tarjoaa päivän aikana ruoan ja kevyitä virvokkeita, kisajuomat saa jokainen tuoda mukanaan.
+Tapahtuma järjestetään vuonna 2026 jo seitsemättä kertaa. Aiempina vuosina tapahtumassa on ollut noin 100 osallistujaa, puhujaa ja järjestäjää. Järjestäjä tarjoaa päivän aikana ruoan ja kevyitä virvokkeita, kisajuomat saa jokainen tuoda mukanaan.
 
 
 # TAPAHTUMAN TUKENA
 
 Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea. 
 
+[Sponsoriksi?]([https://remod.fi](https://tarlab.fi/sponssi)){:.centered}
+
 **Päätukijat**
 
 <p></p>
-[![Remod](/assets/img/HAD2025/Remod.png)](https://remod.fi){:.centered}
-
-<p></p>
-[![Netox](/assets/img/HAD2025/Netox-400-100.png)](https://netox.com){:.centered}
-
-<p></p>
-[![Disobey](/assets/img/HAD2025/Disobey-400-100.png)](https://disobey.fi){:.centered}
-
-
-**Tapahtumatilan sponsoroi**  
-
-<center><h3><a href="https://www.johteenhovi.fi/">Johteenhovi</a></h3></center>
 
 **Tukijat**  
 
 <p>
-<center>
-<a href="https://sensorfleet.com"><img src="/assets/img/HAD2025/sensorfleet.png" width="40%" alt="SensorFleet"></a>
-</center>
-</p>
-
-<p>
-<center>
-<a href="https://sensorfu.com"><img src="/assets/img/HAD2025/SensorFu.png" width="20%" alt="SensorFu"></a>
-<a href="https://reversec.com"><img src="/assets/img/HAD2025/reversec.png" width="20%" alt="Reversec"></a>
-<a href="https://www.prove.fi"><img src="/assets/img/HAD2025/Prove.png" width="20%" alt="Prove Expertise"></a>
-</center>
 </p>
 
 # AIKA
-**18.10.2025** - noin klo 10:30 - 00:00
+**7.11.2026** - noin klo 10:30 - 00:00
 
-# OHOJELMA  
+# (vahvasti alustava) OHOJELMA  
 
 *10:30*  
 **Ovet avataan**
 
 *10:45*  
 **Tapahtuman avaus** 🇫🇮/🇬🇧  
-Miikka Saukko
 
 *11:00 - 14:00*  
-**Turvallisempaa koodia etsimässä - Miksi ohjelmistoturvallisuus on myös kyberiä?** 🇫🇮  
-Karoliina Kemppainen
 
-**Universaali aimbot Pythonilla** 🇫🇮  
-Niila Viinamäki
-
-**Thinking Outside the (Linux) Box: Security Considerations From Human Actors** 🇫🇮  
-Esa Jääskelä
+**Esityksiä**
+Sinä?
 
 *~14:00 - 14:45*  
 **Lounas** 🍲  
 
 *14:45 - 18:30*  
 
-**The obligatory AI talk** 🇫🇮/🇬🇧  
-Jussi Eronen
-
-**Summer of Things**  
-Jere & Jack
-
-**Totally OT** 🇫🇮  
-Olli Rajala
-
-**How to make games for Commodore 64 in 2025** 🇬🇧  
-Netta Heikkinen
+**Esityksiä**
+Sinä?
 
 *19:00*  
 **Salamapuheet** 🇫🇮/🇬🇧  
@@ -93,7 +57,6 @@ Netta Heikkinen
 Hakkerihenkinen visa maineesta ja kunniasta!
 
 **Sauna** 🇫🇮/🇬🇧/🇸🇪  
-Suurempana kuin koskaan ennen.  
 Omat pyyhkeet mukaan.
 
 # JÄRJESTÄJÄ
@@ -113,7 +76,7 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 
 # MATRIX
 *Haluakkonää jutella?*  
-Tapahtuman etkoja, jatkoja ja muita keskusteluita voi käydä [Matrixissa](https://matrix.to/#/#had2025:hacklab.fi)
+Tapahtuman etkoja, jatkoja ja muita keskusteluita voi käydä [Matrixissa](https://matrix.to/#/#had2026:hacklab.fi)
 
 # IKÄRAJA
 *Holovaakko Nää Ööliä?*  
