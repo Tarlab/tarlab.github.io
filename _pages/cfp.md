@@ -3,7 +3,7 @@ layout: page
 title: Call for Participation
 ---
 # Hack After Dark 2026
-[18.10.2025 @ Johteenhovi, Oulu](https://tarlab.fi/HackAfterDark)
+[7.11.2026 @ Johteenhovi, Oulu](https://tarlab.fi/HackAfterDark)
 
 **Deadline:** *15.9.2026*
 
