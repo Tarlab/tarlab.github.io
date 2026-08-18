@@ -29,7 +29,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 # (vahvasti alustava) OHOJELMA  
 
-## Puhujia etsitään ##
+## Puhujia etsitään
 [Call for presentations](https://tarlab.fi/cfp)
 
 *10:30*  
