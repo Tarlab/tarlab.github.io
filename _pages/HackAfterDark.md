@@ -29,6 +29,9 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 # (vahvasti alustava) OHOJELMA  
 
+## Puhujia etsitään ##
+[Call for presentations](https://tarlab.fi/cfp)
+
 *10:30*  
 **Ovet avataan**
 
@@ -71,8 +74,7 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
-[Lipunmyynti](https://kide.app/events/ebef66f6-195d-4f3f-9399-51bcb2abc75b/tickets/6d51724b-9d82-4584-85b0-7bb69a4283fb) (1.10.2025->).
-
+Lipunmyynti aukeaa myöhemmin.
 
 # MATRIX
 *Haluakkonää jutella?*  
