@@ -13,7 +13,7 @@ Tapahtuma järjestetään vuonna 2026 jo seitsemättä kertaa. Aiempina vuosina 
 
 Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea. 
 
-[Sponsoriksi?]([https://remod.fi](https://tarlab.fi/sponssi)){:.centered}
+[Sponsoriksi?](https://tarlab.fi/sponssi){:.centered}
 
 **Päätukijat**
 
@@ -29,8 +29,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 # (vahvasti alustava) OHOJELMA  
 
-## Puhujia etsitään
-[Call for presentations](https://tarlab.fi/cfp)
+**[Call for presentations](https://tarlab.fi/cfp)**
 
 *10:30*  
 **Ovet avataan**
