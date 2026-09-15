@@ -39,16 +39,29 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 *11:00 - 14:00*  
 
-**Esityksiä**
-Sinä?
+**Satelliitittomuussietoinen ilmanavigointi**
+wilh0
+
+**Modern AppSec**
+hasanen
+
+**How To Create a Self-Evolving Autonomous Offensive Security Agent**
+Jyrki Huhta
 
 *~14:00 - 14:45*  
 **Lounas** 🍲  
 
 *14:45 - 18:30*  
 
-**Esityksiä**
-Sinä?
+**Tietoturvan päätöksenteko rajattujen resurssien maailmassa**
+Pekka Hurskainen
+
+**QAsec: kuinka automaatio ja AI muuttavat testaamista**
+Katariina Partti
+
+**Cyber Wargaming Without a Cyber Range**
+Pasi Hakkarainen
+
 
 *19:00*  
 **Salamapuheet** 🇫🇮/🇬🇧  
