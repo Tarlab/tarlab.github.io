@@ -39,7 +39,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 *11:00 - 14:00*  
 
-**Satelliitittomuussietoinen ilmanavigointi**  
+**GNSS-häirintä ja ilmailu**  
 wilh0
 
 **Modern AppSec**  
