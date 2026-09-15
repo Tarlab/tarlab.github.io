@@ -39,13 +39,13 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 *11:00 - 14:00*  
 
-**Satelliitittomuussietoinen ilmanavigointi**
+**Satelliitittomuussietoinen ilmanavigointi**  
 wilh0
 
-**Modern AppSec**
+**Modern AppSec**  
 hasanen
 
-**How To Create a Self-Evolving Autonomous Offensive Security Agent**
+**How To Create a Self-Evolving Autonomous Offensive Security Agent**  
 Jyrki Huhta
 
 *~14:00 - 14:45*  
@@ -53,13 +53,13 @@ Jyrki Huhta
 
 *14:45 - 18:30*  
 
-**Tietoturvan päätöksenteko rajattujen resurssien maailmassa**
+**Tietoturvan päätöksenteko rajattujen resurssien maailmassa**  
 Pekka Hurskainen
 
-**QAsec: kuinka automaatio ja AI muuttavat testaamista**
+**QAsec: kuinka automaatio ja AI muuttavat testaamista**  
 Katariina Partti
 
-**Cyber Wargaming Without a Cyber Range**
+**Cyber Wargaming Without a Cyber Range**  
 Pasi Hakkarainen
 
 
