@@ -27,9 +27,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 # AIKA
 **7.11.2026** - noin klo 10:30 - 00:00
 
-# (vahvasti alustava) OHOJELMA  
-
-**[Call for presentations](https://tarlab.fi/cfp)**
+# OHOJELMA  
 
 *10:30*  
 **Ovet avataan**
@@ -57,7 +55,7 @@ Jyrki Huhta
 Pekka Hurskainen
 
 **QAsec: kuinka automaatio ja AI muuttavat testaamista**  
-Katariina Partti
+Katarina Partti
 
 **Cyber Wargaming Without a Cyber Range**  
 Pasi Hakkarainen
