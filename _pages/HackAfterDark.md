@@ -13,15 +13,29 @@ Tapahtuma järjestetään vuonna 2026 jo seitsemättä kertaa. Aiempina vuosina 
 
 Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea. 
 
-[Sponsoriksi?](https://tarlab.fi/sponssi){:.centered}
-
 **Päätukijat**
 
 <p></p>
+[![Remod](/assets/img/HAD2026/Remod.png)](https://remod.fi){:.centered}
+
+<p></p>
+[![Netox](/assets/img/HAD2026/Netox-400-100.png)](https://netox.com){:.centered}
+
+<p></p>
+[![Disobey](/assets/img/HAD2026/Disobey-400-100.png)](https://disobey.fi){:.centered}
+
+**Tapahtuman saunat ja paljut sponsoroi**  
+
+[![Gofore](/assets/img/HAD2026/Gofore.svg)](https://gofore.com){:.centered}
 
 **Tukijat**  
 
 <p>
+<center>
+<a href="https://sensorfu.com"><img src="/assets/img/HAD2026/SensorFu.png" width="20%" alt="SensorFu"></a>
+<a href="https://f-secure.com"><img src="/assets/img/HAD2026/f-secure.png" width="20%" alt="F-Secure"></a>
+<a href="https://www.prove.fi"><img src="/assets/img/HAD2026/Prove.png" width="20%" alt="Prove Expertise"></a>
+</center>
 </p>
 
 # AIKA
