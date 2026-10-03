@@ -26,7 +26,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 **Tapahtuman saunat ja paljut sponsoroi**  
 
-[![Gofore](/assets/img/HAD2026/Gofore.svg)](https://gofore.com){:.centered}
+[![Gofore](/assets/img/HAD2026/Gofore.png)](https://gofore.com){:.centered}
 
 **Tukijat**  
 
