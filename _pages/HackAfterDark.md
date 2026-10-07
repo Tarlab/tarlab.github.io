@@ -28,6 +28,10 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 [![Gofore](/assets/img/HAD2026/Gofore.png)](https://gofore.com){:.centered}
 
+**Tapahtuman ruokatarjoilun sponsoroi**  
+
+[![Glesys](/assets/img/HAD2026/Lockup%20Black.png)](https://glesys.fi){:.centered}
+
 **Tukijat**  
 
 <p>
