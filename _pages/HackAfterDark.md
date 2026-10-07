@@ -69,7 +69,7 @@ Jyrki Huhta
 <p>
 <center>
 Lounaan tarjoaa <br>
-<a href="https://glesys.fi"><img src="/assets/img/HAD2026/Lockup-360.png" width="10%" alt="Glesys"></a>
+<a href="https://glesys.fi"><img src="/assets/img/HAD2026/Lockup-360.png" width="80" alt="Glesys"></a>
 </center>
 </p>
 
@@ -98,7 +98,7 @@ Omat pyyhkeet mukaan.
 <p>
 <center>
 Saunat ja paljut tarjoaa <br>
-<a href="https://gofore.com"><img src="/assets/img/HAD2026/Gofore.png" width="10%" alt="Gofore"></a>
+<a href="https://gofore.com"><img src="/assets/img/HAD2026/Gofore.png" width="80" alt="Gofore"></a>
 </center>
 </p>
 
