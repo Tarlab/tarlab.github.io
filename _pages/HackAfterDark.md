@@ -30,7 +30,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 
 **Tapahtuman ruokatarjoilun sponsoroi**  
 
-[![Glesys](/assets/img/HAD2026/Lockup%20Black.png)](https://glesys.fi){:.centered}
+[![Glesys](/assets/img/HAD2026/Lockup-360.png)](https://glesys.fi){:.centered}
 
 **Tukijat**  
 
