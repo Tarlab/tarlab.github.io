@@ -66,6 +66,8 @@ Jyrki Huhta
 
 *~14:00 - 14:45*  
 **Lounas** 🍲  
+Lounaan tarjoaa
+<a href="https://glesys.fi"><img src="/assets/img/HAD2026/Lockup-360.png" width="10%" alt="Glesys"></a>
 
 *14:45 - 18:30*  
 
@@ -88,6 +90,9 @@ Pasi Hakkarainen
 Hakkerihenkinen visa maineesta ja kunniasta!
 
 **Sauna** 🇫🇮/🇬🇧/🇸🇪  
+Saunat ja paljut tarjoaa
+<a href="https://gofore.com"><img src="/assets/img/HAD2026/Gofore.png" width="10%" alt="Gofore"></a>
+
 Omat pyyhkeet mukaan.
 
 # JÄRJESTÄJÄ
