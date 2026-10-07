@@ -75,7 +75,7 @@ Lounaan tarjoaa <br>
 
 *14:45 - 18:30*  
 
-**Tietoturvan päätöksenteko rajattujen resurssien maailmassa**  
+**Liian vähän rahaa, liikaa hyvii ideoita - Miten päättää mitä jättää tekemättä**  
 Pekka Hurskainen
 
 **QAsec: kuinka automaatio ja AI muuttavat testaamista**  
@@ -114,7 +114,12 @@ Tapahtuman järjestäjän saa kiinni osoitteesta had-AT-tarlab.fi
 
 # MUKAAN?
 *Tuukko Nää Mukkaan?*  
-Lipunmyynti aukeaa myöhemmin.
+Lipunmyynti aukeaa 13.10. klo 12:00.  
+(Tarlabin jäsenille jäsenlinkki lähetetty sähköpostilla)
+
+[Lipunmyynti](https://kide.app/events/e7eabf3f-04e8-4edd-8615-74477046261b)
+
+
 
 # MATRIX
 *Haluakkonää jutella?*  
