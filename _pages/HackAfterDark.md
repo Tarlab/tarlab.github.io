@@ -66,10 +66,12 @@ Jyrki Huhta
 
 *~14:00 - 14:45*  
 **Lounas** 🍲  
+<p>
 <center>
-Lounaan tarjoaa
+Lounaan tarjoaa <br>
 <a href="https://glesys.fi"><img src="/assets/img/HAD2026/Lockup-360.png" width="10%" alt="Glesys"></a>
 </center>
+</p>
 
 *14:45 - 18:30*  
 
@@ -93,10 +95,12 @@ Hakkerihenkinen visa maineesta ja kunniasta!
 
 **Sauna** 🇫🇮/🇬🇧/🇸🇪  
 Omat pyyhkeet mukaan.
+<p>
 <center>
-Saunat ja paljut tarjoaa
+Saunat ja paljut tarjoaa <br>
 <a href="https://gofore.com"><img src="/assets/img/HAD2026/Gofore.png" width="10%" alt="Gofore"></a>
 </center>
+</p>
 
 # JÄRJESTÄJÄ
 *Tunnekko Nää Meitä?*  
