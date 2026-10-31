@@ -39,6 +39,7 @@ Tapahtuma ei olisi mahdollinen ilman yhteistyökumppaneiden tukea.
 <a href="https://sensorfu.com"><img src="/assets/img/HAD2026/cyan-sensorfu-logo.svg" width="20%" alt="SensorFu"></a>
 <a href="https://www.prove.fi"><img src="/assets/img/HAD2026/Prove.png" width="20%" alt="Prove Expertise"></a>
 <a href="https://f-secure.com"><img src="/assets/img/HAD2026/f-secure.png" width="20%" alt="F-Secure"></a>
+<a href="https://kpmg.com/fi/fi.html"><img src="/assets/img/HAD2026/kpmg.png" width="20%" alt="KPMG"></a>
 </center>
 </p>
 
